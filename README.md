@@ -10,7 +10,7 @@ This app enables seamless integration between [Daraz](https://www.daraz.pk/) and
 - **Custom Reports**: Generate detailed reports on sales and inventory performance.
 
 ## Prerequisites
-- ERPNext v13 or higher
+- ERPNext v14 or higher
 - Frappe framework installed
 - Daraz seller account with API access
 
@@ -18,7 +18,7 @@ This app enables seamless integration between [Daraz](https://www.daraz.pk/) and
 
 1. Install the app:
    ```bash
-   bench get-app daraz_integration
+   bench get-app https://github.dev/Infintrix-Technologies/erpnext_daraz.git
    bench install-app daraz_integration
    ```
 2. Configure your Daraz API credentials:
