@@ -1,0 +1,75 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2025-01-23 02:29:52.490862",
+ "default_view": "List",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "app_id",
+  "app_secret_key",
+  "api_endpoint",
+  "auth_token_data",
+  "authenticate_seller_center"
+ ],
+ "fields": [
+  {
+   "fieldname": "app_id",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "App ID",
+   "reqd": 1
+  },
+  {
+   "fieldname": "app_secret_key",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "App Secret Key",
+   "reqd": 1
+  },
+  {
+   "default": "https://api.daraz.pk/rest",
+   "fieldname": "api_endpoint",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "API Endpoint",
+   "reqd": 1
+  },
+  {
+   "fieldname": "authenticate_seller_center",
+   "fieldtype": "Button",
+   "label": "Authenticate Seller Center"
+  },
+  {
+   "default": "{}",
+   "fieldname": "auth_token_data",
+   "fieldtype": "JSON",
+   "label": "Token Data",
+   "reqd": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "issingle": 1,
+ "links": [],
+ "modified": "2025-01-24 01:02:24.602448",
+ "modified_by": "Administrator",
+ "module": "Daraz",
+ "name": "Daraz Setting",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

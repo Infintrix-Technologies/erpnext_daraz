@@ -1,0 +1,1330 @@
+[
+    {
+        "created_time": "1689010233659",
+        "updated_time": "1736834060798",
+        "images": [
+            "https://pk-live-21.slatic.net/kf/S5ef7426e0e7340139d9c9f6924e44fbfP.jpg",
+            "https://pk-live-21.slatic.net/kf/Saf504ac732204b6694c14970c2f70e7et.jpg",
+            "https://pk-live-21.slatic.net/kf/S3b9cef67c2b54ba1877519c63162beafh.jpg",
+            "https://pk-live-21.slatic.net/kf/S94bebb0d8bdc4409879667bd97e946d37.jpg",
+            "https://pk-live-21.slatic.net/kf/Sc0e527435cea4004b5e683a7e4b46533B.jpg"
+        ],
+        "skus": [
+            {
+                "Status": "active",
+                "quantity": 0,
+                "Images": [],
+                "SellerSku": "426850803-1692547398079-0",
+                "ShopSku": "426850803_PK-2053613746",
+                "special_time_format": "yyyy-MM-dd HH:mm:ss",
+                "Url": "http://www.daraz.pk/-i426850803-s2053613746.html",
+                "package_content": "PD200x",
+                "saleProp": {},
+                "multiWarehouseInventories": [
+                    {
+                        "occupyQuantity": 0,
+                        "quantity": 0,
+                        "totalQuantity": 0,
+                        "withholdQuantity": 0,
+                        "warehouseCode": "dropshipping",
+                        "sellableQuantity": 0
+                    }
+                ],
+                "package_width": "4.00",
+                "special_to_time": "2025-12-31 00:00:00",
+                "special_from_time": "2025-01-14 00:00:00",
+                "package_height": "2.00",
+                "fblWarehouseInventories": [],
+                "special_price": 22500.0,
+                "price": 35000.0,
+                "channelInventories": [],
+                "package_length": "6.00",
+                "special_from_date": "2025-01-14",
+                "Available": 0,
+                "package_weight": "0.4",
+                "SkuId": 2053613746,
+                "special_to_date": "2025-12-31"
+            }
+        ],
+        "item_id": 426850803,
+        "primary_category": 7488,
+        "attributes": {
+            "name": "Pd200x usb/xlr \u067e\u0648\u0688 \u06a9\u0627\u0633\u0679 \u0645\u062a\u062d\u0631\u06a9 \u0645\u0627\u0626\u06a9\u0631\u0648\u0641\u0648\u0646 \u0645\u06cc\u0648\u0646\u0648",
+            "description": "<span style=\"color: rgb(51, 51, 51); font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Helvetica Neue\", Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);\">MAONO XLR/USB Podcast Microphone, PC Dynamic Mic with Software for Recording, Streaming, Gaming & Voice-Over, Metal Mic, Tap-to-Mute, Headphone Jack, Gain Knob & Volume Control- PD200X (Black)<br><br>Accessories <br>1 Mic <br>2 usb cable<br><br></span>",
+            "brand": "No Brand",
+            "warranty_type": "No Warranty",
+            "name_en": "PD200X Usb/xlr Podcast Dynamic Microphone maono",
+            "short_description_en": "<span style=\"color: rgb(51, 51, 51); font-family: system-ui, -apple-system, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);\">MAONO XLR/USB Podcast Microphone, PC Dynamic Mic with Software for Recording, Streaming, Gaming &amp; Voice-Over, Metal Mic, Tap-to-Mute, Headphone Jack, Gain Knob &amp; Volume Control- PD200X (Black)</span>",
+            "Hazmat": "None",
+            "promotion_whitebkg_image": [
+                "https://static-01.daraz.pk/p/2b2f4814c42f680bc7c60339045dd082.jpg"
+            ],
+            "source": "asc",
+            "delivery_option_sof": "0"
+        },
+        "status": "Active"
+    },
+    {
+        "created_time": "1708716426583",
+        "updated_time": "1736833907972",
+        "images": [
+            "https://static-01.daraz.pk/p/14171b26a9972d75eaebd9e0faaf0f20.png",
+            "https://static-01.daraz.pk/p/ecfcb834c3a6807ae29f037c6a30f6aa.png"
+        ],
+        "skus": [
+            {
+                "SellerSku": "T715896-Black",
+                "ShopSku": "469131637_PK-2215130097",
+                "Url": "http://www.daraz.pk/-i469131637-s2215130097.html",
+                "color_family": "Black",
+                "package_height": "0.20",
+                "fblWarehouseInventories": [],
+                "price": 1500.0,
+                "package_length": "0.40",
+                "special_from_date": "2024-07-06",
+                "Available": 29,
+                "special_to_date": "2025-12-31",
+                "Status": "active",
+                "quantity": 29,
+                "Images": [
+                    "https://static-01.daraz.pk/p/14171b26a9972d75eaebd9e0faaf0f20.png"
+                ],
+                "color_thumbnail": "https://static-01.daraz.pk/p/14171b26a9972d75eaebd9e0faaf0f20.png",
+                "special_time_format": "yyyy-MM-dd HH:mm:ss",
+                "saleProp": {
+                    "color_family": "Black"
+                },
+                "multiWarehouseInventories": [
+                    {
+                        "occupyQuantity": 0,
+                        "quantity": 29,
+                        "totalQuantity": 29,
+                        "withholdQuantity": 0,
+                        "warehouseCode": "dropshipping",
+                        "sellableQuantity": 29
+                    }
+                ],
+                "package_width": "0.30",
+                "special_to_time": "2025-12-31 00:00:00",
+                "special_from_time": "2024-07-06 00:00:00",
+                "special_price": 799.0,
+                "channelInventories": [],
+                "package_weight": "0.2",
+                "SkuId": 2215130097
+            }
+        ],
+        "item_id": 469131637,
+        "primary_category": 9713,
+        "attributes": {
+            "name": "\u0645\u0627\u0626\u06a9\u0631\u0648\u0641\u0648\u0646 \u067e\u0627\u067e \u0641\u0644\u0679\u0631 \u06af\u0648\u0633\u0646\u06cc\u06a9 \u0628\u0627\u0632\u0648 \u0627\u0648\u0631 \u06a9\u0644\u06cc\u0645\u067e \u06a9\u06d2 \u0633\u0627\u062a\u06be-\u0688\u0628\u0644 \u067e\u0631\u062a \u0648\u0627\u0644\u0627 \u06c1\u0648\u0627 \u0633\u06d2 \u0645\u062d\u0641\u0648\u0638 \u0627\u0633\u06a9\u0631\u06cc\u0646 \u0631\u06cc\u06a9\u0627\u0631\u0688\u0646\u06af \u0628\u0631\u0627\u0688\u06a9\u0627\u0633\u0679\u0646\u06af \u0627\u0633\u0679\u0631\u06cc\u0645\u0646\u06af \u06a9\u06d2 \u0644\u0626\u06d2-\u0633\u06cc\u0627\u06c1",
+            "description": "<h2>Specifications of DM AUDIO Microphone Pop Filter with Gooseneck Arm & Clamp - Dual Layers Wind Proof Screen for Recording Broadcasting Streaming - Black</h2><div></div>",
+            "brand": "No Brand",
+            "warranty_type": "No Warranty",
+            "description_en": "<h2>Specifications of DM AUDIO Microphone Pop Filter with Gooseneck Arm &amp; Clamp - Dual Layers Wind Proof Screen for Recording Broadcasting Streaming - Black</h2><div></div>",
+            "name_en": "Microphone Pop Filter with Gooseneck Arm & Clamp - Dual Layers Wind Proof Screen for Recording Broadcasting Streaming - Black",
+            "short_description_en": "<p><strong>Studio quality Mesh Pop Filter acts as mic sound, minimizing plosives. Flexible microphone gooseneck arm can be adjusted for optimal recording performance</strong></p><ul><li>ENHANCE AUDIO: Studio quality Mesh Pop Filter acts as mic sound Audioshield, minimizing plosives</li><li>EFFECTIVE: Double Layer Nylon Mesh filter removes noise twice as effectively as standard pop filters</li><li>1-YEAR WARRANTY: We\u2019ve got your back! Our products are designed to ease your technical woes, not add to them. Our friendly US-Based support is here to help</li><li>SIMPLE: Dual Layer pop filter mounts easily to any microphone stand for professional sound quality</li><li>ADJUSTABLE: Flexible microphone gooseneck arm can be adjusted for optimal recording performance</li></ul>",
+            "promotion_whitebkg_image": [
+                "https://static-01.daraz.pk/p/ca3eef9e04f8378ccdd5b2fd40d3fc73.jpg"
+            ],
+            "source": "asc"
+        },
+        "status": "Active"
+    },
+    {
+        "created_time": "1680189455696",
+        "updated_time": "1736174183678",
+        "images": [
+            "https://static-01.daraz.pk/p/99db4ed604d2ebfcbec764436e6296c7.jpg",
+            "https://pk-live-21.slatic.net/kf/S590cd4b371d344bd9ff2aa8549581933R.jpg",
+            "https://pk-live-21.slatic.net/kf/Sea6768fe3ea3432bac78f0363cb16e6dP.jpg"
+        ],
+        "skus": [
+            {
+                "SellerSku": "410140369-1680189454640-0",
+                "ShopSku": "410140369_PK-2212735690",
+                "Url": "http://www.daraz.pk/-i410140369-s2212735690.html",
+                "color_family": "Black",
+                "package_height": "7.09",
+                "fblWarehouseInventories": [],
+                "price": 20000.0,
+                "package_length": "39.67",
+                "special_from_date": "2024-07-06",
+                "Available": 0,
+                "special_to_date": "2024-12-31",
+                "Status": "inactive",
+                "quantity": 0,
+                "Images": [
+                    "https://pk-live-21.slatic.net/kf/S44a167b46e474042bf2efbb64c1d3fe8D.jpg"
+                ],
+                "special_time_format": "yyyy-MM-dd HH:mm:ss",
+                "package_content": "bm 800 condenser microphone full kit with v8s sound card",
+                "saleProp": {
+                    "color_family": "Black"
+                },
+                "multiWarehouseInventories": [
+                    {
+                        "occupyQuantity": 0,
+                        "quantity": 0,
+                        "totalQuantity": 0,
+                        "withholdQuantity": 0,
+                        "warehouseCode": "dropshipping",
+                        "sellableQuantity": 0
+                    }
+                ],
+                "package_width": "19.05",
+                "special_to_time": "2024-12-31 23:59:25",
+                "special_from_time": "2024-07-06 00:00:19",
+                "special_price": 8100.0,
+                "channelInventories": [],
+                "package_weight": "0.41",
+                "SkuId": 2212735690
+            }
+        ],
+        "item_id": 410140369,
+        "primary_category": 7488,
+        "attributes": {
+            "name": "Bm 800 Condenser Microphone With V8s Sound Card Shock Mount Pop Filter Mic Stand - Bm800",
+            "short_description": "Microphone phone&nbsp; Stand Pop filter&nbsp; Mix cover&nbsp; Cables Best for youtuber Shock mount&nbsp;",
+            "description": "Bm800 condenser microphone with v8s sound card <br/><br/>Microphone phone <br/>Stand<br/>Pop filter <br/>Mix cover <br/>Cables<br/>Best for youtuber<br/>Shock mount",
+            "brand": "No Brand",
+            "warranty_type": "No Warranty",
+            "description_en": "<p data-spm-anchor-id=\"a1zawk.page_product_publish.0.i9.163077095Vhhpb\">Bm800 condenser microphone with v8s sound card&nbsp; Microphone phone&nbsp; Stand Pop filter&nbsp; Mix cover&nbsp; Cables Best for YouTuber Shock mount&nbsp;</p><p><br/></p><pre data-spm-anchor-id=\"a1zawk.page_product_publish.0.i11.163077095Vhhpb\">Introducing the Bm 800 Condenser Microphone with V8s Sound Card! \nThis professional-grade microphone is designed for live sound and stage performances. It comes with a shock mount and pop filter for clear, crisp audio.\nThe included mic stand ensures easy setup and positioning. \nThe V8s sound card enhances the audio quality, making it perfect for recording vocals, instruments, podcasts, and more. Whether you're a musician, podcaster, or content creator, the Bm 800 delivers exceptional sound reproduction and versatility.</pre>",
+            "name_en": "Bm 800 Condenser Microphone With V8s Sound Card Shock Mount Pop Filter Mic Stand - Bm800",
+            "short_description_en": "<pre>\u2022 Clear audio with V8s sound card.\n\u2022 Noise reduction with shock mount and pop filter.\n\u2022 Convenient mic stand for versatile positioning.\n\u2022 Perfect for live sound, stage equipment, and studio recording.</pre>",
+            "Hazmat": "None",
+            "source": "asc",
+            "delivery_option_sof": "0"
+        },
+        "status": "InActive"
+    },
+    {
+        "created_time": "1664395334251",
+        "updated_time": "1707152678162",
+        "images": [
+            "https://static-01.daraz.pk/p/6a81f76a7764e9c96a7329fa956492ba.jpg"
+        ],
+        "skus": [
+            {
+                "SellerSku": "359614091-1690265324238-2",
+                "ShopSku": "359614091_PK-2136672634",
+                "Url": "http://www.daraz.pk/-i359614091-s2136672634.html",
+                "color_family": "v8s",
+                "package_height": "3.00",
+                "fblWarehouseInventories": [],
+                "price": 8000.0,
+                "package_length": "3.00",
+                "special_from_date": "2024-01-01",
+                "Available": 19,
+                "special_to_date": "2024-06-30",
+                "Status": "active",
+                "quantity": 19,
+                "Images": [
+                    "https://static-01.daraz.pk/p/18e8cd9f8bca14c54289f4c4d10c72c3.jpg"
+                ],
+                "color_thumbnail": "https://static-01.daraz.pk/p/18e8cd9f8bca14c54289f4c4d10c72c3.jpg",
+                "special_time_format": "yyyy-MM-dd HH:mm:ss",
+                "package_content": "1\u00d7 v8 sound card",
+                "saleProp": {
+                    "color_family": "v8s"
+                },
+                "multiWarehouseInventories": [
+                    {
+                        "occupyQuantity": 0,
+                        "quantity": 19,
+                        "totalQuantity": 19,
+                        "withholdQuantity": 0,
+                        "warehouseCode": "dropshipping",
+                        "sellableQuantity": 19
+                    }
+                ],
+                "package_width": "2.00",
+                "special_to_time": "2024-06-30 23:59:33",
+                "special_from_time": "2024-01-01 00:00:28",
+                "special_price": 4700.0,
+                "channelInventories": [],
+                "package_weight": "0.3",
+                "SkuId": 2136672634
+            },
+            {
+                "SellerSku": "359614091-1690265324238-1",
+                "ShopSku": "359614091_PK-2136672636",
+                "Url": "http://www.daraz.pk/-i359614091-s2136672636.html",
+                "color_family": "v8",
+                "package_height": "3.00",
+                "fblWarehouseInventories": [],
+                "price": 6000.0,
+                "package_length": "3.00",
+                "special_from_date": "2024-01-01",
+                "Available": 6,
+                "special_to_date": "2024-06-30",
+                "Status": "inactive",
+                "quantity": 6,
+                "Images": [
+                    "https://static-01.daraz.pk/p/1ad1f84cc86fc347a5abe184f453afa3.jpg"
+                ],
+                "color_thumbnail": "https://static-01.daraz.pk/p/1ad1f84cc86fc347a5abe184f453afa3.jpg",
+                "special_time_format": "yyyy-MM-dd HH:mm:ss",
+                "package_content": "1\u00d7 v8 sound card",
+                "saleProp": {
+                    "color_family": "v8"
+                },
+                "multiWarehouseInventories": [
+                    {
+                        "occupyQuantity": 0,
+                        "quantity": 6,
+                        "totalQuantity": 6,
+                        "withholdQuantity": 0,
+                        "warehouseCode": "dropshipping",
+                        "sellableQuantity": 6
+                    }
+                ],
+                "package_width": "2.00",
+                "special_to_time": "2024-06-30 23:59:20",
+                "special_from_time": "2024-01-01 00:00:15",
+                "special_price": 3200.0,
+                "channelInventories": [],
+                "package_weight": "0.3",
+                "SkuId": 2136672636
+            },
+            {
+                "SellerSku": "359614091-1690265324237-0",
+                "ShopSku": "359614091_PK-2136672635",
+                "Url": "http://www.daraz.pk/-i359614091-s2136672635.html",
+                "color_family": "v8 ii",
+                "package_height": "3.00",
+                "fblWarehouseInventories": [],
+                "price": 7000.0,
+                "package_length": "3.00",
+                "special_from_date": "2024-01-01",
+                "Available": 10,
+                "special_to_date": "2024-06-30",
+                "Status": "inactive",
+                "quantity": 10,
+                "Images": [],
+                "special_time_format": "yyyy-MM-dd HH:mm:ss",
+                "package_content": "1\u00d7 v8 sound card",
+                "saleProp": {
+                    "color_family": "v8 ii"
+                },
+                "multiWarehouseInventories": [
+                    {
+                        "occupyQuantity": 0,
+                        "quantity": 10,
+                        "totalQuantity": 10,
+                        "withholdQuantity": 0,
+                        "warehouseCode": "dropshipping",
+                        "sellableQuantity": 10
+                    }
+                ],
+                "package_width": "2.00",
+                "special_to_time": "2024-06-30 23:59:03",
+                "special_from_time": "2024-01-01 00:00:55",
+                "special_price": 4000.0,
+                "channelInventories": [],
+                "package_weight": "0.3",
+                "SkuId": 2136672635
+            }
+        ],
+        "item_id": 359614091,
+        "primary_category": 7489,
+        "attributes": {
+            "name": "\u0631\u06cc\u0686\u0627\u0631\u062c \u06c1\u0648\u0646\u06d2 \u0648\u0627\u0644\u0627 v8 ii \u0633\u0627\u0624\u0646\u0688 \u06a9\u0627\u0631\u0688-\u0622\u0688\u06cc\u0648 \u0627\u06cc\u0645\u067e\u0644\u06cc\u0641\u0627\u0626\u0631 \u0627\u06cc\u06a9\u0633\u0679\u0631\u0646\u0644 usb \u0627\u0646\u0679\u0631\u0641\u06cc\u0633-\u0628\u0644\u0648\u0679\u0648\u062a\u06be \u0641\u0646\u06a9\u0634\u0646 \u0622\u0648\u0627\u0632 \u062a\u0628\u062f\u06cc\u0644 \u06a9\u0631\u0646\u06d2 \u0648\u0627\u0644\u0627-\u0645\u062a\u0639\u062f\u062f \u0633\u0627\u0624\u0646\u0688 \u0627\u06cc\u0641\u06cc\u06a9\u0679 \u06a9\u06d2 \u0633\u0627\u062a\u06be \u0628\u0631\u0627\u06c1 \u0631\u0627\u0633\u062a \u0627\u0633\u0679\u0631\u06cc\u0645\u0646\u06af \u0631\u06cc\u06a9\u0627\u0631\u0688\u0646\u06af-\u0633\u06cc\u0627\u06c1",
+            "short_description": "Product details of Rechargeable V8 Sound Card - Audio Amplifier External USB Interface - Bluetooth Function Voice Changer - Live Streaming Recording with Multiple Sound Effects - Black Live Streaming through mobile and record 2-way 3.5mm headphone output 2-way 3.5mm condenser microphone Input 1 channel 6.5 dynamic microphone input Bluetooth accompaniment input Use Headset To Listen Without Delay",
+            "description": "<div style=\"margin: 0;padding: 8.0px 0;white-space: pre-wrap;\"><span></span><p style=\"margin: 0;padding: 8.0px 0;font-size: 14.0px;color: #000000;\"><span style=\"margin: 0.0px;padding: 0.0px;\"><strong style=\"margin: 0.0px;padding: 0.0px;font-weight: bold;\">Rechargeable V8 Sound Card - Audio Amplifier External USB Interface - Bluetooth Function Voice Changer - Live Streaming Recording with Multiple Sound Effects - Black</strong></span></p><p style=\"margin: 0;padding: 8.0px 0;font-size: 14.0px;color: #000000;\"><span style=\"margin: 0.0px;padding: 0.0px;\">The High-Quality V8 Professional USB sound card is suitable for mobile phones, computers & laptops with touch buttons to adjust volume & change the sound, electric sound, reverberation, atmosphere effects, The extended frequency response is very suitable for singing, voice, It Works perfectly in reproducing sound. V8 Audio External USB Headset Microphone Live Broadcast Sound Card for Mobile Phone Computer PC</span></p></div>",
+            "brand": "No Brand",
+            "warranty_type": "No Warranty",
+            "description_en": "<p>Feature: Many kinds of electric sound,18 kinds of sound effects, 6 kinds of effect modes. Reverberation size adjustment, Microphone volume adjustment, high bass adjustment, recording volume control (earphone function). Support mobile phone computer use, support the use of a single headset. 7 kinds of connecting methods: one cell phone K song live, double cell phone live, three mobile phones live, mobile phone computer synchronous live, one computer live, computer accompaniment cell phone live, instrument input cell phone live. You Can Connect Your Device By Using Bluetooth function</p>",
+            "name_en": "Rechargeable V8 ii Sound Card - Audio Amplifier External USB Interface - Bluetooth Function Voice Changer - Live Streaming Recording with Multiple Sound Effects - Black",
+            "short_description_en": "<p>Product details of Rechargeable V8 Sound Card - Audio Amplifier External USB Interface - Bluetooth Function Voice Changer - Live Streaming Recording with Multiple Sound Effects - Black Live Streaming through mobile and record 2-way 3.5mm headphone output 2-way 3.5mm condenser microphone Input 1 channel 6.5 dynamic microphone input Bluetooth accompaniment input Use Headset To Listen Without Delay</p>",
+            "Hazmat": "None",
+            "source": "asc",
+            "delivery_option_sof": "0"
+        },
+        "status": "Active"
+    },
+    {
+        "created_time": "1676487403703",
+        "updated_time": "1736833790273",
+        "images": [
+            "https://static-01.daraz.pk/p/d702717445c9be14e8998fb2575ed63c.jpg",
+            "https://static-01.daraz.pk/p/11c77c3f9ecf9f81aa9904b89064cb4f.jpg"
+        ],
+        "skus": [
+            {
+                "SellerSku": "396838336-1689004508857-0",
+                "ShopSku": "396838336_PK-2025967043",
+                "Url": "http://www.daraz.pk/-i396838336-s2025967043.html",
+                "color_family": "Black",
+                "package_height": "3.00",
+                "fblWarehouseInventories": [],
+                "price": 5000.0,
+                "package_length": "20.00",
+                "special_from_date": "2024-01-11",
+                "Available": 17,
+                "special_to_date": "2025-12-31",
+                "Status": "active",
+                "quantity": 17,
+                "Images": [
+                    "https://static-01.daraz.pk/p/d702717445c9be14e8998fb2575ed63c.jpg"
+                ],
+                "color_thumbnail": "https://static-01.daraz.pk/p/70c24d7d0680af86ebad498c957b28e9.jpg",
+                "special_time_format": "yyyy-MM-dd HH:mm:ss",
+                "saleProp": {
+                    "color_family": "Black"
+                },
+                "multiWarehouseInventories": [
+                    {
+                        "occupyQuantity": 0,
+                        "quantity": 17,
+                        "totalQuantity": 17,
+                        "withholdQuantity": 0,
+                        "warehouseCode": "dropshipping",
+                        "sellableQuantity": 17
+                    }
+                ],
+                "package_width": "4.00",
+                "special_to_time": "2025-12-31 00:00:00",
+                "special_from_time": "2024-01-11 00:00:10",
+                "special_price": 2399.0,
+                "channelInventories": [],
+                "package_weight": "0.4",
+                "SkuId": 2025967043
+            }
+        ],
+        "item_id": 396838336,
+        "primary_category": 9713,
+        "attributes": {
+            "name": "Adjustable Studio Microphone Stand - Tripod Microphone Stand - Fully Adjustable Black Mic Stand & Holder - Maximum Stability Safe Knob Lock - Anti-Slip Rubber Tripod Ends",
+            "short_description": "Product details of Adjustable Studio Microphone Stand - Tripod Microphone Stand - Fully Adjustable Black Mic Stand & Holder - Maxi",
+            "description": "<div></div>",
+            "brand": "No Brand",
+            "warranty_type": "No Warranty",
+            "description_en": "Product details of Adjustable Studio Microphone Stand - Tripod Microphone Stand - Fully Adjustable Black Mic Stand & Holder - Maximum Stability Safe Knob Lock - Anti-Slip Rubber Tripod Ends Floor Tripod Microphone Stand - Fully Adjustable Black Mic Stand & Holder - Maximum Stability Safe Knob Lock - Anti-Slip Rubber Tripod Ends - Lightweight & Portable By Sure Luxury Floor Tripod Microphone Stand - Fully Adjustable Black Mic Stand & Holder - Maximum Stability Safe Knob Lock - Anti-Slip Rubber Tripod Ends - Lightweight & Portable By Sure Luxury Specifications of Adjustable Studio Microphone Stand - Tripod Microphone Stand - Fully Adjustable Black Mic Stand & Holder - Maximum",
+            "name_en": "Adjustable Studio Microphone Stand - Tripod Microphone Stand - Fully Adjustable Black Mic Stand & Holder - Maximum Stability Safe Knob Lock - Anti-Slip Rubber Tripod End",
+            "short_description_en": "Product details of Adjustable Studio Microphone Stand - Tripod Microphone Stand - Fully Adjustable Black Mic Stand & Holder - Maxi",
+            "source": "asc",
+            "delivery_option_sof": "0"
+        },
+        "status": "Active"
+    },
+    {
+        "created_time": "1676488149572",
+        "updated_time": "1736833962538",
+        "images": [
+            "https://static-01.daraz.pk/p/72566bb37f81c4131be0a1ecf40e50c3.jpg",
+            "https://static-01.daraz.pk/p/57566c97b840fd55d735130660d41952.jpg"
+        ],
+        "skus": [
+            {
+                "SellerSku": "396843051-1684305513902-0",
+                "ShopSku": "396843051_PK-1986945825",
+                "Url": "http://www.daraz.pk/-i396843051-s1986945825.html",
+                "color_family": "Black",
+                "package_height": "1.00",
+                "fblWarehouseInventories": [],
+                "price": 1000.0,
+                "package_length": "4.00",
+                "special_from_date": "2025-01-14",
+                "Available": 17,
+                "special_to_date": "2025-12-31",
+                "Status": "active",
+                "quantity": 17,
+                "Images": [
+                    "https://static-01.daraz.pk/p/57566c97b840fd55d735130660d41952.jpg"
+                ],
+                "color_thumbnail": "https://static-01.daraz.pk/p/57566c97b840fd55d735130660d41952.jpg",
+                "special_time_format": "yyyy-MM-dd HH:mm:ss",
+                "package_content": "1 iring",
+                "saleProp": {
+                    "color_family": "Black"
+                },
+                "multiWarehouseInventories": [
+                    {
+                        "occupyQuantity": 0,
+                        "quantity": 17,
+                        "totalQuantity": 17,
+                        "withholdQuantity": 0,
+                        "warehouseCode": "dropshipping",
+                        "sellableQuantity": 17
+                    }
+                ],
+                "package_width": "2.00",
+                "special_to_time": "2025-12-31 00:00:00",
+                "special_from_time": "2025-01-14 00:00:00",
+                "special_price": 699.0,
+                "channelInventories": [],
+                "package_weight": "0.1",
+                "SkuId": 1986945825
+            }
+        ],
+        "item_id": 396843051,
+        "primary_category": 7489,
+        "attributes": {
+            "name": "Irig Guitar Recording Interface Adaptor - IRig Guitar Interface Converter - Portable Guitar Audio Interface, Lightweight Audio Adapter for Phone, Pad and Android Smartphones and Tablets, with Instrument Input and",
+            "description": "<ul><li>PLUG AND PLAY SIMPLICITY ON EVERY DEVICE: Adjustable gain dial, which works with its built-in 1/8\"\" TRRS output connector to give you a true plug-and-play experience with your Phone</li><li>CONNECT TO AMPLIFIER WITHOUT ADDITIONAL ACCESSORIES: iRig new 1/4\u201d output jack lets you use iRig with an amplifier as a part of your live rig without the use of an adaptor.</li><li>CONNECT TO ANY DEVICE: Compatible with new generation Phone through the lightning to headphone adaptor \u2014 Easily record high-quality audio right to your mobile device. Use the built-in 1/8\" headphone output or 1/4\" amplifier output to listen to audio with headphones or amplifier.</li><li>ROCK WITH iRig: Paired with AmpliTube CS (free) for iOS, powerful guitar and bass multi-effects processor. AmpliTube CS provides you with a vast library of meticulously modeled virtual stompbox effects, amplifiers.</li><li>EVEN BETTER: iRig features a switch that lets you select between a processed signal and a clean \"thru\" input signal. This means you can also use your mobile device as a tuner, recorder or other tool while preserving the purity of a 100% analog signal path.</li></ul><div></div>",
+            "brand": "No Brand",
+            "warranty_type": "No Warranty",
+            "description_en": "<ul><li>Stresses headphones or external speakers into the headphone adapter</li><li>Insert -guitar adaptation</li><li>Download free software from iTunes from Ampli-Tube</li><li>The guitar is the instrument interface adapter adapter and guitar and tone mobile software an easy to use</li><li>You can turn on and began to shake Ampli-Tube use</li></ul><div></div>",
+            "name_en": "Irig Guitar Recording Interface Adaptor - IRig Guitar Interface Converter - Portable Guitar Audio Interface, Lightweight Audio Adapter for Phone, Pad and Android Smartphones and Tablets, with Instrument Input and",
+            "short_description_en": "<h2>Product details of Irig Guitar Recording Interface Adaptor - IRig Guitar Interface Converter - Portable Guitar Audio Interface, Lightw</h2>",
+            "Hazmat": "None",
+            "source": "asc",
+            "delivery_option_sof": "0"
+        },
+        "status": "Active"
+    },
+    {
+        "created_time": "1689093762090",
+        "updated_time": "1736833930544",
+        "images": [
+            "https://pk-live-21.slatic.net/kf/Sffc7de62993c4b20b91881e5b93e35f2q.jpg",
+            "https://pk-live-21.slatic.net/kf/Sc50d6518ab824e839d047d0daafc5fc4Z.jpg"
+        ],
+        "skus": [
+            {
+                "SellerSku": "426965535-1689093760284-0",
+                "ShopSku": "426965535_PK-2026421858",
+                "Url": "http://www.daraz.pk/-i426965535-s2026421858.html",
+                "color_family": "Black",
+                "package_height": "1",
+                "fblWarehouseInventories": [],
+                "price": 2200.0,
+                "package_length": "3.00",
+                "special_from_date": "2025-01-14",
+                "Available": 9,
+                "special_to_date": "2025-12-31",
+                "Status": "active",
+                "quantity": 9,
+                "Images": [],
+                "special_time_format": "yyyy-MM-dd HH:mm:ss",
+                "package_content": "one xlr male to female",
+                "saleProp": {
+                    "color_family": "Black"
+                },
+                "multiWarehouseInventories": [
+                    {
+                        "occupyQuantity": 0,
+                        "quantity": 9,
+                        "totalQuantity": 9,
+                        "withholdQuantity": 0,
+                        "warehouseCode": "dropshipping",
+                        "sellableQuantity": 9
+                    }
+                ],
+                "package_width": "2",
+                "special_to_time": "2025-12-31 00:00:00",
+                "special_from_time": "2025-01-14 00:00:00",
+                "special_price": 999.0,
+                "channelInventories": [],
+                "package_weight": "0.19",
+                "SkuId": 2026421858
+            }
+        ],
+        "item_id": 426965535,
+        "primary_category": 9731,
+        "attributes": {
+            "name": "Xlr \u0645\u0627\u0626\u06a9\u0631\u0648\u0641\u0648\u0646 \u06a9\u06cc\u0628\u0644 \u060c xlr \u0646\u06cc\u0644 \u0633\u06d2 \u0641\u06cc\u0645\u06cc\u0644 \u0645\u0627\u0626\u06a9\u0631\u0648\u0641\u0648\u0646 \u06a9\u06cc\u0628\u0644-\u0645\u0627\u0626\u06a9 \u06a9\u06d2 \u0644\u0626\u06d2 \u0622\u0688\u06cc\u0648 \u06a9\u06cc\u0628\u0644",
+            "description": "Male to female cable is prefect for professional audio work, podcast, live and many more audio works. It is also used with phantom power. This is for those people who is looking for some professional assories . The length of male to female cable is 3m<br><br>Live preformenec , studio prodcast",
+            "brand": "No Brand",
+            "warranty_type": "No Warranty",
+            "description_en": "Male to female cable is prefect for professional audio work, podcast, live and many more audio works. It is also used with phantom power. This is for those people who is looking for some professional assories . The length of male to female cable is 3m<br><br>Live preformenec , studio prodcast",
+            "name_en": "XLR MICROphone cable, xlr nale to female microphone cable- audio cable for mic",
+            "short_description_en": "Male to female cable is prefect for professional audio work, podcast, live and many more audio works. It is also used with phantom power. This is for those people who is looking for some professional assories . The length of male to female cable is 3m<br><br>Live preformenec , studio prodcast",
+            "cable_length": "3m and Above",
+            "Hazmat": "None",
+            "promotion_whitebkg_image": [
+                "https://static-01.daraz.pk/p/6e3dfd6117cdba0188d0f9bc6b284826.jpg"
+            ],
+            "source": "asc",
+            "delivery_option_sof": "0"
+        },
+        "status": "Active"
+    },
+    {
+        "created_time": "1677438035308",
+        "updated_time": "1736833813873",
+        "images": [
+            "https://static-01.daraz.pk/p/c64749c70e9208a2d7d47a2020cdd397.jpg"
+        ],
+        "skus": [
+            {
+                "SellerSku": "399636540-1695626261369-0",
+                "ShopSku": "399636540_PK-2077599660",
+                "Url": "http://www.daraz.pk/-i399636540-s2077599660.html",
+                "color_family": "Black",
+                "package_height": "3.00",
+                "fblWarehouseInventories": [],
+                "price": 11000.0,
+                "package_length": "16.00",
+                "special_from_date": "2024-01-01",
+                "Available": 0,
+                "special_to_date": "2025-12-31",
+                "Status": "active",
+                "quantity": 0,
+                "Images": [
+                    "https://pk-live-21.slatic.net/kf/Sf0be8cac87b04319bc89300c29bf5e89k.jpg"
+                ],
+                "special_time_format": "yyyy-MM-dd HH:mm:ss",
+                "package_content": "1\u00d7 mic 1\u00d7 pop filter 1\u00d7 sound card v8 1\u00d7 mic cover 1\u00d7stand 1\u00d7 shock mount",
+                "saleProp": {},
+                "multiWarehouseInventories": [
+                    {
+                        "occupyQuantity": 0,
+                        "quantity": 0,
+                        "totalQuantity": 0,
+                        "withholdQuantity": 0,
+                        "warehouseCode": "dropshipping",
+                        "sellableQuantity": 0
+                    }
+                ],
+                "package_width": "7.00",
+                "special_to_time": "2025-12-31 00:00:00",
+                "special_from_time": "2024-01-01 00:00:30",
+                "special_price": 7300.0,
+                "channelInventories": [],
+                "package_weight": "1",
+                "SkuId": 2077599660
+            }
+        ],
+        "item_id": 399636540,
+        "primary_category": 7853,
+        "attributes": {
+            "name": "bm 800 full kit  v 8 sound card",
+            "short_description": "<p>Bm 800 micro phone with USB v8 sound card full kit available for sale&nbsp; &nbsp;micro phone&nbsp; V8 sound card Cables Stand Shock mount&nbsp; Pop Filter Mic cover</p>",
+            "description": "<p>Bm 800 micro phone with USB v8 sound card full kit available for sale <br/><br/> micro phone <br/><br/>V8 sound card<br/><br/>Cables<br/><br/>Stand<br/><br/>Shock mount <br/><br/>Pop Filter<br/><br/>Mic cover<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/></p>",
+            "brand": "No Brand",
+            "warranty_type": "No Warranty",
+            "name_en": "bm 800 full kit  v 8 sound card",
+            "short_description_en": "<p>Bm 800 micro phone with USB v8 sound card full kit available for sale&nbsp; &nbsp;micro phone&nbsp; V8 sound card Cables Stand Shock mount&nbsp; Pop Filter Mic cover</p>",
+            "Hazmat": "None",
+            "source": "asc",
+            "delivery_option_sof": "0"
+        },
+        "status": "Active"
+    },
+    {
+        "created_time": "1675703703122",
+        "updated_time": "1736833824211",
+        "images": [
+            "https://static-01.daraz.pk/p/ae2b8b08e157a1bc6a2a44d63d8f4b3c.jpg"
+        ],
+        "skus": [
+            {
+                "SellerSku": "394379762-1689345402972-0",
+                "ShopSku": "394379762_PK-2204271339",
+                "Url": "http://www.daraz.pk/-i394379762-s2204271339.html",
+                "color_family": "Black",
+                "package_height": "3.00",
+                "fblWarehouseInventories": [],
+                "price": 19500.0,
+                "package_length": "12.00",
+                "special_from_date": "2024-01-01",
+                "Available": 0,
+                "special_to_date": "2025-12-31",
+                "Status": "active",
+                "quantity": 0,
+                "Images": [
+                    "https://static-01.daraz.pk/p/f0de3878b711c92de51af3928ed8c674.jpg"
+                ],
+                "special_time_format": "yyyy-MM-dd HH:mm:ss",
+                "package_content": "bm 800 microphone, phantom power,v8 sound card,pop filter ,cables ,mic cover ,stand ,shock mount",
+                "saleProp": {
+                    "color_family": "Black"
+                },
+                "multiWarehouseInventories": [
+                    {
+                        "occupyQuantity": 0,
+                        "quantity": 0,
+                        "totalQuantity": 0,
+                        "withholdQuantity": 0,
+                        "warehouseCode": "dropshipping",
+                        "sellableQuantity": 0
+                    }
+                ],
+                "package_width": "5.00",
+                "special_to_time": "2025-12-31 00:00:00",
+                "special_from_time": "2024-01-01 00:00:01",
+                "special_price": 11000.0,
+                "channelInventories": [],
+                "package_weight": "0.5",
+                "SkuId": 2204271339
+            }
+        ],
+        "item_id": 394379762,
+        "primary_category": 7488,
+        "attributes": {
+            "name": "\u06a9\u0646\u0688\u06cc\u0646\u0633\u0631 \u0645\u0627\u0626\u06a9\u0631\u0648\u0641\u0648\u0646 \u0628\u0646\u0688\u0644 \u060c \u0627\u0633\u0679\u0648\u0688\u06cc\u0648 \u0631\u06cc\u06a9\u0627\u0631\u0688\u0646\u06af \u0627\u0648\u0631 \u0628\u0631\u0627\u0688\u06a9\u0627\u0633\u0679\u0646\u06af \u0627\u0648\u0631 \u0641\u06cc\u0679\u0645 \u067e\u0627\u0648\u0631 \u06a9\u06d2 \u0644\u0626\u06d2 \u0644\u0627\u0626\u06cc\u0648 \u0633\u0627\u0624\u0646\u0688 \u06a9\u0627\u0631\u0688 \u060c \u0622\u0631\u0645 \u060c \u062f\u06be\u0627\u062a\u06cc \u0634\u0627\u06a9 \u067e\u0627\u067e \u0641\u0644\u0679\u0631 \u06a9\u06d2 \u0633\u0627\u062a\u06be BM-800 \u0645\u0627\u0626\u06a9 \u06a9\u0679",
+            "short_description": "<p>Product details of Bm 800 Condenser Microphone Complete Kit - Home Studio Setup Transducer: Condenser Microphone Use: Karaoke Microphone Certification: CE Set Type: Multi-Microphone Kits Origin: CN(Origin) Polar Patterns: Uni-directional Material: Zinc Alloy + Plastic Frequency Response: 30Hz-20KHz Sensitivity: -38dB+ / -2dB Microphone Output Interface: 3.5mm Equivalent Noise Level: 16 dba Electrical Current: 3mA Signal to Noise Ratio: 78 decibels Output Impedance: 150Ohm+ / -30% Load Impedance: Greater than equal 1000Oh XLR Cable Length: 2.5m Feature 1: Recording microphones &amp; accessories Feature 2: Recording microphone Feature 3: Podcast equipment Feature 4: Microphone for Streaming Podcast</p>",
+            "description": "<h1>About this item</h1><ul><li>\u3010Professional Recording Studio Equipment\u3011Equiped with ALPOWL BM-800 microphone, Shock mount, Pop filter, Mic adjustable suspension scissor arm stand, Anti-wind foam Cap, Power cable, ALPOWL Live sound card.</li><li>\u3010Excellent Sound Quality\u3011With rugged construction for durable performance, the vocal microphone offers a wide frequency response and handles high SPLs with ease.Ideal for project/home-studio applications.The cardioid condenser capsule offers crystal-clear audio for communicating, creating and recording.</li><li>\u3010Low Noise\u3011It features high signal-to-noise ratio (SNR) that means less distortion to be caused on the process of recording, Unique 3-layer protection system prevents unwanted pop noises\u2014providing singers with a clear, plosive-free vocal performance.</li><li>\u3010Device Compatibility\u3011 This sound effects device can be used on any mobile phone, computer, tablet iPad, PS4, Xbox, Switch, Apple iOS systems, Android systems and Any game platform. Change your voice anytime, anywhere, call with friends, chat on for WeChat, live and sing, take video on TikTok, Youtube, etc.</li></ul><div></div>",
+            "brand": "No Brand",
+            "warranty_type": "No Warranty",
+            "description_en": "<p>This is a highest discounted deal . I am going to offer on daraz .&nbsp; so beloved customer do order enjoy this deal for your home studio set up . what you get in this deal&nbsp; * BM-800 Microphone &nbsp;* Microphone Cover &nbsp;* Arm Mic Stand &nbsp;* Shock Mount &nbsp;* Pop Filter * 48v Phantom Power Supply &nbsp;* Cables * Microphone Cable * V8 Usb Sound Card</p>",
+            "name_en": "Condenser Microphone Bundle,  BM-800 Mic Kit with Live Sound Card,  Arm, Metal Shock Pop Filter for Studio  and phatom power",
+            "short_description_en": "<p>Product details of Bm 800 Condenser Microphone Complete Kit - Home Studio Setup Transducer: Condenser Microphone Use: Karaoke Microphone Certification: CE Set Type: Multi-Microphone Kits Origin: CN(Origin) Polar Patterns: Uni-directional Material: Zinc Alloy + Plastic Frequency Response: 30Hz-20KHz Sensitivity: -38dB+ / -2dB Microphone Output Interface: 3.5mm Equivalent Noise Level: 16 dba Electrical Current: 3mA Signal to Noise Ratio: 78 decibels Output Impedance: 150Ohm+ / -30% Load Impedance: Greater than equal 1000Oh XLR Cable Length: 2.5m Feature 1: Recording microphones &amp; accessories Feature 2: Recording microphone Feature 3: Podcast equipment Feature 4: Microphone for Streaming Podcast</p>",
+            "Hazmat": "None",
+            "source": "asc",
+            "delivery_option_sof": "0"
+        },
+        "status": "Active"
+    },
+    {
+        "created_time": "1689092305403",
+        "updated_time": "1736833943622",
+        "images": [
+            "https://pk-live-21.slatic.net/kf/Secbdaf4f965a4c65b3919c677b4c522eD.jpg",
+            "https://pk-live-21.slatic.net/kf/Se44ec6a9d37f4b7885de822d1871944bQ.jpg",
+            "https://pk-live-21.slatic.net/kf/Sbf452b6dcf754fdba983dd920d6379ac0.jpg"
+        ],
+        "skus": [
+            {
+                "SellerSku": "426972391-1689092303659-0",
+                "ShopSku": "426972391_PK-2204256990",
+                "Url": "http://www.daraz.pk/-i426972391-s2204256990.html",
+                "color_family": "Black",
+                "package_height": "3.00",
+                "fblWarehouseInventories": [],
+                "price": 27000.0,
+                "package_length": "6.00",
+                "special_from_date": "2025-01-14",
+                "Available": 18,
+                "special_to_date": "2025-12-31",
+                "Status": "active",
+                "quantity": 18,
+                "Images": [
+                    "https://pk-live-21.slatic.net/kf/S546eb21e1dbd4979a368b25968d9ad01K.jpg"
+                ],
+                "special_time_format": "yyyy-MM-dd HH:mm:ss",
+                "package_content": "Q 22 only",
+                "saleProp": {
+                    "color_family": "Black"
+                },
+                "multiWarehouseInventories": [
+                    {
+                        "occupyQuantity": 0,
+                        "quantity": 18,
+                        "totalQuantity": 18,
+                        "withholdQuantity": 0,
+                        "warehouseCode": "dropshipping",
+                        "sellableQuantity": 18
+                    }
+                ],
+                "package_width": "4.00",
+                "special_to_time": "2025-12-31 00:00:00",
+                "special_from_time": "2025-01-14 00:00:00",
+                "special_price": 14999.0,
+                "channelInventories": [],
+                "package_weight": "0.4",
+                "SkuId": 2204256990
+            }
+        ],
+        "item_id": 426972391,
+        "primary_category": 7489,
+        "attributes": {
+            "name": "\u0679\u06cc\u0648\u0646 Q22-Q24 2i2 2 \u0686\u0646\u0644 usb \u0622\u0688\u06cc\u0648 \u0627\u0646\u0679\u0631\u0641\u06cc\u0633 \u060c \u0633\u0627\u0624\u0646\u0688 \u06a9\u0627\u0631\u0688",
+            "description": "<span style=\"color: rgb(64, 64, 64); font-family: system-ui, -apple-system, BlinkMacSystemFont, \"Helvetica Neue\", Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);\">Teyun Q22-Q24 2i2 2 Channel USB Audio Interface, Sound Card for the Guitarist, Vocalist, Podcaster or Producer \u2014 High-Fidelity, Studio Quality Recording, and All the Software You Need to Record<br><br>Product detail <br>Teyun Q22 </span>",
+            "brand": "No Brand",
+            "warranty_type": "No Warranty",
+            "description_en": "<span style=\"color: rgb(64, 64, 64); font-family: system-ui, -apple-system, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);\">Teyun Q22-Q24 2i2 2 Channel USB Audio Interface, Sound Card for the Guitarist, Vocalist, Podcaster or Producer \u2014 High-Fidelity, Studio Quality Recording, and All the Software You Need to Record<br><br>Product detail&nbsp;<br>Teyun Q22&nbsp;</span>",
+            "name_en": "Teyun Q22-Q24 2i2 2 chanal USB AUDIO interface, sound card",
+            "short_description_en": "<span style=\"color: rgb(64, 64, 64); font-family: system-ui, -apple-system, BlinkMacSystemFont, &quot;Helvetica Neue&quot;, Helvetica, sans-serif; font-size: 12px; background-color: rgb(255, 255, 255);\">Teyun Q22-Q24 2i2 2 Channel USB Audio Interface, Sound Card for the Guitarist, Vocalist, Podcaster or Producer \u2014 High-Fidelity, Studio Quality Recording, and All the Software You Need to Record</span>",
+            "Hazmat": "None",
+            "source": "asc",
+            "delivery_option_sof": "0"
+        },
+        "status": "Active"
+    },
+    {
+        "created_time": "1676219910616",
+        "updated_time": "1736833894144",
+        "images": [
+            "https://pk-live-21.slatic.net/kf/Scd8b6c1e387a49efa3adea7bf83307bdI.jpg"
+        ],
+        "skus": [
+            {
+                "SellerSku": "396074190-1682509942214-0",
+                "ShopSku": "396074190_PK-1977157683",
+                "Url": "http://www.daraz.pk/-i396074190-s1977157683.html",
+                "color_family": "Black",
+                "package_height": "5.00",
+                "fblWarehouseInventories": [],
+                "price": 5500.0,
+                "package_length": "2.00",
+                "special_from_date": "2025-01-14",
+                "Available": 0,
+                "special_to_date": "2025-12-31",
+                "Status": "active",
+                "quantity": 0,
+                "Images": [
+                    "https://pk-live-21.slatic.net/kf/S39e1af32db8840e09a587a632bc9efe7b.jpg"
+                ],
+                "special_time_format": "yyyy-MM-dd HH:mm:ss",
+                "package_content": "phantom power and charger",
+                "saleProp": {
+                    "color_family": "Black"
+                },
+                "multiWarehouseInventories": [
+                    {
+                        "occupyQuantity": 0,
+                        "quantity": 0,
+                        "totalQuantity": 0,
+                        "withholdQuantity": 0,
+                        "warehouseCode": "dropshipping",
+                        "sellableQuantity": 0
+                    }
+                ],
+                "package_width": "4.00",
+                "special_to_time": "2025-12-31 00:00:00",
+                "special_from_time": "2025-01-14 00:00:00",
+                "special_price": 3250.0,
+                "channelInventories": [],
+                "package_weight": "0.3",
+                "SkuId": 1977157683
+            }
+        ],
+        "item_id": 396074190,
+        "primary_category": 7488,
+        "attributes": {
+            "name": "phantom power",
+            "short_description": "Phantom power with best packing and good product\u00a0\n\nWhat you get in this\n\n\n1 phantom power\u00a0\n2 charger",
+            "description": "This is a best Phantom power original and imported must try it once you love it\u00a0",
+            "brand": "No Brand",
+            "warranty_type": "No Warranty",
+            "description_en": "This is a best Phantom power original and imported must try it once you love it\u00a0",
+            "name_en": "phantom power",
+            "short_description_en": "Phantom power with best packing and good product\u00a0\n\nWhat you get in this\n\n\n1 phantom power\u00a0\n2 charger",
+            "Hazmat": "None",
+            "source": "asc",
+            "delivery_option_sof": "0"
+        },
+        "status": "Active"
+    },
+    {
+        "created_time": "1725860782896",
+        "updated_time": "1727365892993",
+        "images": [
+            "https://pk-live-21.slatic.net/kf/S25ee278bc98f4e7b958e6bbffb6f45e9I.jpg",
+            "https://pk-live-21.slatic.net/kf/S29be1937e98b4fec8219e8459aa6770bT.jpg",
+            "https://pk-live-21.slatic.net/kf/Sc8f563a7fae14d83ae3b98e9521bd45a3.jpg",
+            "https://pk-live-21.slatic.net/kf/Sf5eb4ed2593b4924b214d10e053abeear.jpg",
+            "https://pk-live-21.slatic.net/kf/S98318a8006334a2b867455c775c2c7dev.jpg",
+            "https://pk-live-21.slatic.net/kf/S93ed3f829ed64962bf5685ed6c88f54cT.jpg",
+            "https://pk-live-21.slatic.net/kf/Sa09b164fcf084928bf18eb97832cd30ey.jpg",
+            "https://pk-live-21.slatic.net/kf/S9a692e41ae734ee386e58022aaa668a4B.jpg"
+        ],
+        "skus": [
+            {
+                "Status": "active",
+                "quantity": 10,
+                "Images": [
+                    "https://pk-live-21.slatic.net/kf/S989095ada74f4ecfb451257a350affa8I.jpg"
+                ],
+                "fragrance_family": "Not Specified",
+                "SellerSku": "565538499-1725860782089-0",
+                "ShopSku": "565538499_PK-2616937901",
+                "special_time_format": "yyyy-MM-dd HH:mm:ss",
+                "Url": "http://www.daraz.pk/-i565538499-s2616937901.html",
+                "saleProp": {
+                    "fragrance_family": "Not Specified"
+                },
+                "multiWarehouseInventories": [
+                    {
+                        "occupyQuantity": 0,
+                        "quantity": 10,
+                        "totalQuantity": 10,
+                        "withholdQuantity": 0,
+                        "warehouseCode": "dropshipping",
+                        "sellableQuantity": 10
+                    }
+                ],
+                "package_width": "8.00",
+                "special_to_time": "2025-12-31 00:00:00",
+                "special_from_time": "2024-09-09 00:00:00",
+                "package_height": "6.00",
+                "fblWarehouseInventories": [],
+                "special_price": 170000.0,
+                "price": 250000.0,
+                "channelInventories": [],
+                "package_length": "10.00",
+                "special_from_date": "2024-09-09",
+                "Available": 10,
+                "package_weight": "3",
+                "SkuId": 2616937901,
+                "special_to_date": "2025-12-31"
+            }
+        ],
+        "item_id": 565538499,
+        "primary_category": 7279,
+        "attributes": {
+            "name": "1 \u0645\u06cc\u06ba 11 \u06c1\u0627\u0626\u06cc\u0688\u0631\u0627 \u0641\u06cc\u0634\u0644 \u0645\u0634\u06cc\u0646 \u0641\u0644\u0627\u0644\u06cc\u0633 \u062c\u0644\u062f \u06a9\u06d2 \u0644\u0626\u06d2 \u067e\u0631\u0648\u0641\u06cc\u0634\u0646\u0644 \u062c\u0644\u062f \u06a9\u06cc \u0646\u06af\u06c1\u062f\u0627\u0634\u062a \u0641\u06cc\u0634\u0644 \u0679\u0631\u06cc\u0679\u0645\u0646\u0679 \u0633\u0633\u0679\u0645 \u06a9\u06d2 \u0644\u0626\u06d2\"",
+            "description": "<p>Here's a detailed description of the 11-in-1 Hydra Facial Machine:</p><p></p><p>*Introducing the Ultimate Skin Rejuvenation System*</p><p></p><p>The 11-in-1 Hydra Facial Machine is a revolutionary, multi-functional device designed to provide a comprehensive range of facial treatments. This advanced system combines the benefits of hydration, exfoliation, extraction, and nourishment to reveal radiant, healthy-looking skin.</p><p></p><p>*11-in-1 Functions:*</p><p></p><p>1. *Hydra Cleaning*: Deeply cleanses pores with a gentle, hydrating solution.</p><p>2. *Exfoliation*: Removes dead skin cells and smooths out fine lines and wrinkles.</p><p>3. *Vacuum Extraction*: Gently extracts impurities and blackheads.</p><p>4. *Hydra Infusion*: Delivers nourishing serums and essences deep into the skin.</p><p>5. *Micro-Current*: Stimulates collagen production and firms the skin.</p><p>6. *LED Light Therapy*: Targets acne, aging, and hyperpigmentation.</p><p>7. *Facial Steaming*: Opens pores for deeper cleansing and absorption.</p><p>8. *Cooling*: Closes pores and reduces inflammation.</p><p>9. *Ionization*: Balances skin pH and enhances product absorption.</p><p>10. *RF (Radio Frequency)*: Stimulates collagen production and tightens skin.</p><p>11. *Photon Therapy*: Enhances skin elasticity and reduces fine lines.</p><p></p><p>*Benefits:*</p><p></p><p>- Improves skin texture and tone</p><p>- Reduces appearance of fine lines and wrinkles</p><p>- Unclogs pores and reduces acne</p><p>- Hydrates and nourishes the skin</p><p>- Firms and tightens the skin</p><p>- Enhances skin elasticity and radiance</p><p></p><p>*Perfect for:*</p><p></p><p>- Spa and spa-like treatments at home</p><p>- Professional aestheticians and skincare specialists</p><p>- Individuals seeking advanced skincare solutions</p><p></p><p>Experience the ultimate in skin rejuvenation with the 11-in-1 Hydra Facial Machine.</p>",
+            "brand": "No Brand",
+            "description_en": "<p>Here&#39;s a detailed description of the 11-in-1 Hydra Facial Machine:</p><p></p><p>*Introducing the Ultimate Skin Rejuvenation System*</p><p></p><p>The 11-in-1 Hydra Facial Machine is a revolutionary, multi-functional device designed to provide a comprehensive range of facial treatments. This advanced system combines the benefits of hydration, exfoliation, extraction, and nourishment to reveal radiant, healthy-looking skin.</p><p></p><p>*11-in-1 Functions:*</p><p></p><p>1. *Hydra Cleaning*: Deeply cleanses pores with a gentle, hydrating solution.</p><p>2. *Exfoliation*: Removes dead skin cells and smooths out fine lines and wrinkles.</p><p>3. *Vacuum Extraction*: Gently extracts impurities and blackheads.</p><p>4. *Hydra Infusion*: Delivers nourishing serums and essences deep into the skin.</p><p>5. *Micro-Current*: Stimulates collagen production and firms the skin.</p><p>6. *LED Light Therapy*: Targets acne, aging, and hyperpigmentation.</p><p>7. *Facial Steaming*: Opens pores for deeper cleansing and absorption.</p><p>8. *Cooling*: Closes pores and reduces inflammation.</p><p>9. *Ionization*: Balances skin pH and enhances product absorption.</p><p>10. *RF (Radio Frequency)*: Stimulates collagen production and tightens skin.</p><p>11. *Photon Therapy*: Enhances skin elasticity and reduces fine lines.</p><p></p><p>*Benefits:*</p><p></p><p>- Improves skin texture and tone</p><p>- Reduces appearance of fine lines and wrinkles</p><p>- Unclogs pores and reduces acne</p><p>- Hydrates and nourishes the skin</p><p>- Firms and tightens the skin</p><p>- Enhances skin elasticity and radiance</p><p></p><p>*Perfect for:*</p><p></p><p>- Spa and spa-like treatments at home</p><p>- Professional aestheticians and skincare specialists</p><p>- Individuals seeking advanced skincare solutions</p><p></p><p>Experience the ultimate in skin rejuvenation with the 11-in-1 Hydra Facial Machine.</p>",
+            "name_en": "11-in-1 Hydra Facial Machine for Professional skin care Facial Treatment System for Flawless Skin\"",
+            "short_description_en": "<p>Here&#39;s a detailed description of the 11-in-1 Hydra Facial Machine:</p><p></p><p>*Introducing the Ultimate Skin Rejuvenation System*</p><p></p><p>The 11-in-1 Hydra Facial Machine is a revolutionary, multi-functional device designed to provide a comprehensive range of facial treatments. This advanced system combines the benefits of hydration, exfoliation, extraction, and nourishment to reveal radiant, healthy-looking skin.</p><p></p><p>*11-in-1 Functions:*</p><p></p><p>1. *Hydra Cleaning*: Deeply cleanses pores with a gentle, hydrating solution.</p><p>2. *Exfoliation*: Removes dead skin cells and smooths out fine lines and wrinkles.</p><p>3. *Vacuum Extraction*: Gently extracts impurities and blackheads.</p><p>4. *Hydra Infusion*: Delivers nourishing serums and essences deep into the skin.</p><p>5. *Micro-Current*: Stimulates collagen production and firms the skin.</p><p>6. *LED Light Therapy*: Targets acne, aging, and hyperpigmentation.</p><p>7. *Facial Steaming*: Opens pores for deeper cleansing and absorption.</p><p>8. *Cooling*: Closes pores and reduces inflammation.</p><p>9. *Ionization*: Balances skin pH and enhances product absorption.</p><p>10. *RF (Radio Frequency)*: Stimulates collagen production and tightens skin.</p><p>11. *Photon Therapy*: Enhances skin elasticity and reduces fine lines.</p><p></p><p>*Benefits:*</p><p></p><p>- Improves skin texture and tone</p><p>- Reduces appearance of fine lines and wrinkles</p><p>- Unclogs pores and reduces acne</p><p>- Hydrates and nourishes the skin</p><p>- Firms and tightens the skin</p><p>- Enhances skin elasticity and radiance</p><p></p><p>*Perfect for:*</p><p></p><p>- Spa and spa-like treatments at home</p><p>- Professional aestheticians and skincare specialists</p><p>- Individuals seeking advanced skincare solutions</p><p></p><p>Experience the ultimate in skin rejuvenation with the 11-in-1 Hydra Facial Machine.</p>",
+            "Hazmat": "None",
+            "source": "asc",
+            "delivery_option_sof": "0"
+        },
+        "status": "Active"
+    },
+    {
+        "created_time": "1664394090070",
+        "updated_time": "1736833985658",
+        "images": [
+            "https://static-01.daraz.pk/p/dbebc34ed9bccd80c0441d7456e87b86.jpg",
+            "https://static-01.daraz.pk/p/c40a06eded072f09a3d7d2c92e666975.jpg"
+        ],
+        "skus": [
+            {
+                "SellerSku": "359580728-1689248173157-0",
+                "ShopSku": "359580728_PK-2027368185",
+                "Url": "http://www.daraz.pk/-i359580728-s2027368185.html",
+                "color_family": "Black",
+                "package_height": "6.873",
+                "fblWarehouseInventories": [],
+                "price": 8000.0,
+                "package_length": "39.846",
+                "special_from_date": "2025-01-14",
+                "Available": 9,
+                "special_to_date": "2025-12-31",
+                "Status": "active",
+                "quantity": 9,
+                "Images": [
+                    "https://static-01.daraz.pk/p/dbebc34ed9bccd80c0441d7456e87b86.jpg"
+                ],
+                "special_time_format": "yyyy-MM-dd HH:mm:ss",
+                "package_content": "1\u00d7 microphone 1\u00d7 stand 1\u00d7 pop filter 1\u00d7 cable 1\u00d7 mic cover full kit",
+                "saleProp": {
+                    "color_family": "Black"
+                },
+                "multiWarehouseInventories": [
+                    {
+                        "occupyQuantity": 0,
+                        "quantity": 9,
+                        "totalQuantity": 9,
+                        "withholdQuantity": 0,
+                        "warehouseCode": "dropshipping",
+                        "sellableQuantity": 9
+                    }
+                ],
+                "package_width": "18.879",
+                "special_to_time": "2025-12-31 00:00:00",
+                "special_from_time": "2025-01-14 00:00:00",
+                "special_price": 4900.0,
+                "channelInventories": [],
+                "package_weight": "0.2",
+                "SkuId": 2027368185
+            }
+        ],
+        "item_id": 359580728,
+        "primary_category": 9713,
+        "attributes": {
+            "name": "Bm800 Condenser Microphone Bm 800 Studio Kit (Black) For Studio Recordings",
+            "short_description": "Product details of Bm800 Condenser Microphone Bm 800 Studio Kit (Black) For Studio Recordings Bm 800 Professional Suspension Microphone Kit Studio Live Stream Broadcasting Recording Condenser Microphone Set (Black)",
+            "description": "<div style=\"margin: 0;padding: 8.0px 0;white-space: pre-wrap;\"><span></span><p style=\"margin: 0;padding: 8.0px 0;font-size: 14.0px;color: #000000;\"><span style=\"margin: 0.0px;padding: 0.0px;\">Bm 800 Professional Suspension Microphone Kit Studio Live Stream Broadcasting Recording Condenser Microphone Set (Black) Price In Pakistan</span></p><p style=\"margin: 0;padding: 8.0px 0;font-size: 14.0px;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;font-weight: 400;letter-spacing: normal;orphans: 2;text-indent: 0.0px;text-transform: none;widows: 2;word-spacing: 0.0px;-webkit-text-stroke-width: 0.0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;user-select: text;word-break: break-word;color: #002f34;line-height: 20.0px;font-family: roboto , arial , helvetica , sans-serif;text-align: left;white-space: pre-wrap;background-color: #ffffff;\"><span style=\"margin: 0.0px;padding: 0.0px;\"><strong style=\"margin: 0.0px;padding: 0.0px;font-weight: bold;\">What You Received</strong></span></p><p style=\"margin: 0;padding: 8.0px 0;font-size: 14.0px;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;font-weight: 400;letter-spacing: normal;orphans: 2;text-indent: 0.0px;text-transform: none;widows: 2;word-spacing: 0.0px;-webkit-text-stroke-width: 0.0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;user-select: text;word-break: break-word;color: #002f34;line-height: 20.0px;font-family: roboto , arial , helvetica , sans-serif;text-align: left;white-space: pre-wrap;background-color: #ffffff;\"><span style=\"margin: 0.0px;padding: 0.0px;\">1* BM-800 Microphone</span></p><p style=\"margin: 0;padding: 8.0px 0;font-size: 14.0px;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;font-weight: 400;letter-spacing: normal;orphans: 2;text-indent: 0.0px;text-transform: none;widows: 2;word-spacing: 0.0px;-webkit-text-stroke-width: 0.0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;user-select: text;word-break: break-word;color: #002f34;line-height: 20.0px;font-family: roboto , arial , helvetica , sans-serif;text-align: left;white-space: pre-wrap;background-color: #ffffff;\"><span style=\"margin: 0.0px;padding: 0.0px;\">1* Microphone Cable</span></p><p style=\"margin: 0;padding: 8.0px 0;font-size: 14.0px;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;font-weight: 400;letter-spacing: normal;orphans: 2;text-indent: 0.0px;text-transform: none;widows: 2;word-spacing: 0.0px;-webkit-text-stroke-width: 0.0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;user-select: text;word-break: break-word;color: #002f34;line-height: 20.0px;font-family: roboto , arial , helvetica , sans-serif;text-align: left;white-space: pre-wrap;background-color: #ffffff;\"><span style=\"margin: 0.0px;padding: 0.0px;\">1* Microphone Cover</span></p><p style=\"margin: 0;padding: 8.0px 0;font-size: 14.0px;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;font-weight: 400;letter-spacing: normal;orphans: 2;text-indent: 0.0px;text-transform: none;widows: 2;word-spacing: 0.0px;-webkit-text-stroke-width: 0.0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;user-select: text;word-break: break-word;color: #002f34;line-height: 20.0px;font-family: roboto , arial , helvetica , sans-serif;text-align: left;white-space: pre-wrap;background-color: #ffffff;\"><span style=\"margin: 0.0px;padding: 0.0px;\">1* Microphone Stand</span></p><p style=\"margin: 0;padding: 8.0px 0;font-size: 14.0px;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;font-weight: 400;letter-spacing: normal;orphans: 2;text-indent: 0.0px;text-transform: none;widows: 2;word-spacing: 0.0px;-webkit-text-stroke-width: 0.0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;user-select: text;word-break: break-word;color: #002f34;line-height: 20.0px;font-family: roboto , arial , helvetica , sans-serif;text-align: left;white-space: pre-wrap;background-color: #ffffff;\"><span style=\"margin: 0.0px;padding: 0.0px;\">1* Shock Mount</span></p><p style=\"margin: 0;padding: 8.0px 0;font-size: 14.0px;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;font-weight: 400;letter-spacing: normal;orphans: 2;text-indent: 0.0px;text-transform: none;widows: 2;word-spacing: 0.0px;-webkit-text-stroke-width: 0.0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;user-select: text;word-break: break-word;color: #002f34;line-height: 20.0px;font-family: roboto , arial , helvetica , sans-serif;text-align: left;white-space: pre-wrap;background-color: #ffffff;\"><span style=\"margin: 0.0px;padding: 0.0px;\">1* Acoustic Pop Filter</span></p></div>",
+            "brand": "No Brand",
+            "warranty_type": "No Warranty",
+            "description_en": "Specifications of Bm800 Condenser Microphone Bm 800 Studio Kit (Black) For Studio Recordings",
+            "name_en": "Bm800 Condenser Microphone Bm 800 Studio Kit (Black) For Studio Recordings",
+            "short_description_en": "Product details of Bm800 Condenser Microphone Bm 800 Studio Kit (Black) For Studio Recordings Bm 800 Professional Suspension Microphone Kit Studio Live Stream Broadcasting Recording Condenser Microphone Set (Black)",
+            "Hazmat": "None",
+            "source": "asc",
+            "delivery_option_sof": "0"
+        },
+        "status": "Active"
+    },
+    {
+        "created_time": "1726533198936",
+        "updated_time": "1730269300477",
+        "images": [
+            "https://pk-live-21.slatic.net/kf/S8625cb0da8114127b973d58e6b788e9fG.jpg",
+            "https://pk-live-21.slatic.net/kf/S43b2fac0b2dd48ddb771910108f8fd665.jpg",
+            "https://pk-live-21.slatic.net/kf/See5e48848f9f47b0b87f25284728b9c8w.jpg"
+        ],
+        "skus": [
+            {
+                "SellerSku": "573060159-1726533198469-0",
+                "ShopSku": "573060159_PK-2648623956",
+                "Url": "http://www.daraz.pk/-i573060159-s2648623956.html",
+                "color_family": "Black",
+                "package_height": "2.00",
+                "fblWarehouseInventories": [],
+                "price": 4500.0,
+                "package_length": "4.00",
+                "special_from_date": "2024-09-17",
+                "Available": 30,
+                "special_to_date": "2025-12-31",
+                "Status": "active",
+                "quantity": 30,
+                "Images": [
+                    "https://pk-live-21.slatic.net/kf/Sae14b0eafc484d0d8488b95d6c0ed9aaw.jpg"
+                ],
+                "special_time_format": "yyyy-MM-dd HH:mm:ss",
+                "package_content": "one gps tracker, charging cable, use manual",
+                "saleProp": {
+                    "color_family": "Black"
+                },
+                "multiWarehouseInventories": [
+                    {
+                        "occupyQuantity": 0,
+                        "quantity": 30,
+                        "totalQuantity": 30,
+                        "withholdQuantity": 0,
+                        "warehouseCode": "dropshipping",
+                        "sellableQuantity": 30
+                    }
+                ],
+                "package_width": "3.00",
+                "special_to_time": "2025-12-31 00:00:00",
+                "special_from_time": "2024-09-17 00:00:00",
+                "special_price": 1629.0,
+                "channelInventories": [],
+                "package_weight": "0.3",
+                "SkuId": 2648623956
+            }
+        ],
+        "item_id": 573060159,
+        "primary_category": 10001170,
+        "attributes": {
+            "name": "\u06af\u0627\u0691\u06cc gps \u0679\u0631\u06cc\u06a9\u0631 \u0627\u0635\u0644 \u0648\u0642\u062a \u06a9\u0627 \u0679\u0631\u06cc\u06a9\u0631 \u06af\u0627\u0691\u06cc \u06a9\u0627 \u0679\u0631\u06cc\u06a9\u0631 \u0645\u0642\u0646\u0627\u0637\u06cc\u0633\u06cc gps \u0679\u0631\u06cc\u06a9\u0631 \u0686\u06be\u0648\u0679\u0627 \u0688\u06cc\u0648\u0627\u0626\u0633 gps \u0679\u0631\u06cc\u06a9\u0631 gps \u0628\u0627\u0626\u06cc\u06a9 \u06a9\u06d2 \u0644\u0626\u06d2 \u06af\u0627\u0691\u06cc \u06a9\u06d2 \u0644\u0626\u06d2 \u0628\u06c1\u062a\u0631\u06cc\u0646 gps",
+            "description": "<p>Here's a detailed description of a mini GPS tracker:</p><p></p><p></p><p>*General Information*</p><p></p><p></p><p>- Product Name: Mini GPS Tracker</p><p>- Model Number: [Insert model number]</p><p>- Weight: 20-30 grams</p><p>- Dimensions: 2.5 x 1.5 x 0.5 cm</p><p></p><p></p><p>*Hardware Features*</p><p></p><p></p><p>- GPS Chip: High-sensitivity GPS chip for accurate location tracking</p><p>- GSM Frequency: Quad-band GSM (850/900/1800/1900 MHz)</p><p>- Battery: Rechargeable lithium-ion battery</p><p>- Battery Life: Up to 7-14 days of continuous use (depending on settings)</p><p>- Memory: Internal memory for storing location data</p><p>- Waterproof: IP67 rating for protection against water and dust</p><p>- Operating Temperature: -20\u00b0C to 60\u00b0C</p><p></p><p></p><p>*Tracking Features*</p><p></p><p></p><p>- Real-Time Tracking: Accurate GPS, GSM, and LBS location tracking</p><p>- GPS Accuracy: 5-10 meters accuracy</p><p>- Location Update Interval: Adjustable (e.g., 10 seconds, 1 minute, 1 hour)</p><p>- Historical Tracking: View past locations and routes</p><p>- Geo-Fencing: Set virtual boundaries for alerts</p><p></p><p></p><p>*Alerts and Notifications*</p><p></p><p></p><p>- SOS Button: Send emergency alerts with location information</p><p>- Movement Alerts: Notify when device is moved</p><p>- Low Battery Alerts: Warn when battery level is low</p><p>- Geo-Fence Breach Alerts: Notify when device enters/exits designated areas</p><p></p><p></p><p>*Communication Features*</p><p></p><p></p><p>- Two-Way Communication: Voice monitoring and two-way audio</p><p>- SMS Commands: Send commands to device via SMS</p><p>- App Support: Compatible with iOS and Android devices</p><p></p><p></p><p>*Power and Charging*</p><p></p><p></p><p>- Charging Interface: Micro-USB</p><p>- Charging Time: Approximately 2-3 hours</p><p>- Power Consumption: Low power consumption for extended battery life</p><p></p><p></p><p>*Additional Features*</p><p></p><p></p><p>- LED Indicator: Status indicator for power, GPS, and GSM</p><p>- Magnetic: Built-in magnet for easy attachment</p><p>- Compact Design: Discreet and portable design</p><p></p><p></p><p>*Package Includes*</p><p></p><p></p><p>- Mini GPS tracker</p><p>- USB charging cable</p><p>- User manual</p><p>- SIM card (optional)</p><p></p><p></p><p>*Applications*</p><p></p><p></p><p>- Personal tracking (elderly, children, pets)</p><p>- Vehicle tracking (cars, motorcycles, bicycles)</p><p>- Asset tracking (valuables, luggage, packages)</p><p>- Fleet management</p><p>- Outdoor activities (hiking, cycling, sailing)</p><p></p><p></p><p>*Warranty and Support*</p><p></p><p></p><p>- Warranty: no warranty</p><p>- Technical Support: Online support </p><p></p><p></p><p>*Certifications*</p><p></p><p></p><p>- CE, FCC, RoHS certified</p><p></p><p></p><p>Please note that specifications may vary depending on the manufacturer and model.</p>",
+            "brand": "No Brand",
+            "warranty_type": "No Warranty",
+            "description_en": "<p>Here&#39;s a detailed description of a mini GPS tracker:</p><p></p><p></p><p>*General Information*</p><p></p><p></p><p>- Product Name: Mini GPS Tracker</p><p>- Model Number: [Insert model number]</p><p>- Weight: 20-30 grams</p><p>- Dimensions: 2.5 x 1.5 x 0.5 cm</p><p></p><p></p><p>*Hardware Features*</p><p></p><p></p><p>- GPS Chip: High-sensitivity GPS chip for accurate location tracking</p><p>- GSM Frequency: Quad-band GSM (850/900/1800/1900 MHz)</p><p>- Battery: Rechargeable lithium-ion battery</p><p>- Battery Life: Up to 7-14 days of continuous use (depending on settings)</p><p>- Memory: Internal memory for storing location data</p><p>- Waterproof: IP67 rating for protection against water and dust</p><p>- Operating Temperature: -20&deg;C to 60&deg;C</p><p></p><p></p><p>*Tracking Features*</p><p></p><p></p><p>- Real-Time Tracking: Accurate GPS, GSM, and LBS location tracking</p><p>- GPS Accuracy: 5-10 meters accuracy</p><p>- Location Update Interval: Adjustable (e.g., 10 seconds, 1 minute, 1 hour)</p><p>- Historical Tracking: View past locations and routes</p><p>- Geo-Fencing: Set virtual boundaries for alerts</p><p></p><p></p><p>*Alerts and Notifications*</p><p></p><p></p><p>- SOS Button: Send emergency alerts with location information</p><p>- Movement Alerts: Notify when device is moved</p><p>- Low Battery Alerts: Warn when battery level is low</p><p>- Geo-Fence Breach Alerts: Notify when device enters/exits designated areas</p><p></p><p></p><p>*Communication Features*</p><p></p><p></p><p>- Two-Way Communication: Voice monitoring and two-way audio</p><p>- SMS Commands: Send commands to device via SMS</p><p>- App Support: Compatible with iOS and Android devices</p><p></p><p></p><p>*Power and Charging*</p><p></p><p></p><p>- Charging Interface: Micro-USB</p><p>- Charging Time: Approximately 2-3 hours</p><p>- Power Consumption: Low power consumption for extended battery life</p><p></p><p></p><p>*Additional Features*</p><p></p><p></p><p>- LED Indicator: Status indicator for power, GPS, and GSM</p><p>- Magnetic: Built-in magnet for easy attachment</p><p>- Compact Design: Discreet and portable design</p><p></p><p></p><p>*Package Includes*</p><p></p><p></p><p>- Mini GPS tracker</p><p>- USB charging cable</p><p>- User manual</p><p>- SIM card (optional)</p><p></p><p></p><p>*Applications*</p><p></p><p></p><p>- Personal tracking (elderly, children, pets)</p><p>- Vehicle tracking (cars, motorcycles, bicycles)</p><p>- Asset tracking (valuables, luggage, packages)</p><p>- Fleet management</p><p>- Outdoor activities (hiking, cycling, sailing)</p><p></p><p></p><p>*Warranty and Support*</p><p></p><p></p><p>- Warranty: no warranty</p><p>- Technical Support: Online support </p><p></p><p></p><p>*Certifications*</p><p></p><p></p><p>- CE, FCC, RoHS certified</p><p></p><p></p><p>Please note that specifications may vary depending on the manufacturer and model.</p>",
+            "name_en": "car GPS tracker real time tracker vehicle tracker magnetic gps tracker mini device gps tracker gps for bike best gps for car",
+            "short_description_en": "<p>Here&#39;s a detailed description of a mini GPS tracker:</p><p></p><p></p><p>*General Information*</p><p></p><p></p><p>- Product Name: Mini GPS Tracker</p><p>- Model Number: [Insert model number]</p><p>- Weight: 20-30 grams</p><p>- Dimensions: 2.5 x 1.5 x 0.5 cm</p><p></p><p></p><p>*Hardware Features*</p><p></p><p></p><p>- GPS Chip: High-sensitivity GPS chip for accurate location tracking</p><p>- GSM Frequency: Quad-band GSM (850/900/1800/1900 MHz)</p><p>- Battery: Rechargeable lithium-ion battery</p><p>- Battery Life: Up to 7-14 days of continuous use (depending on settings)</p><p>- Memory: Internal memory for storing location data</p><p>- Waterproof: IP67 rating for protection against water and dust</p><p>- Operating Temperature: -20\u00b0C to 60\u00b0C</p><p></p><p></p><p>*Tracking Features*</p><p></p><p></p><p>- Real-Time Tracking: Accurate GPS, GSM, and LBS location tracking</p><p>- GPS Accuracy: 5-10 meters accuracy</p><p>- Location Update Interval: Adjustable (e.g., 10 seconds, 1 minute, 1 hour)</p><p>- Historical Tracking: View past locations and routes</p><p>- Geo-Fencing: Set virtual boundaries for alerts</p><p></p><p></p><p>*Alerts and Notifications*</p><p></p><p></p><p>- SOS Button: Send emergency alerts with location information</p><p>- Movement Alerts: Notify when device is moved</p><p>- Low Battery Alerts: Warn when battery level is low</p><p>- Geo-Fence Breach Alerts: Notify when device enters/exits designated areas</p><p></p><p></p><p>*Communication Features*</p><p></p><p></p><p>- Two-Way Communication: Voice monitoring and two-way audio</p><p>- SMS Commands: Send commands to device via SMS</p><p>- App Support: Compatible with iOS and Android devices</p><p></p><p></p><p>*Power and Charging*</p><p></p><p></p><p>- Charging Interface: Micro-USB</p><p>- Charging Time: Approximately 2-3 hours</p><p>- Power Consumption: Low power consumption for extended battery life</p><p></p><p></p><p>*Additional Features*</p><p></p><p></p><p>- LED Indicator: Status indicator for power, GPS, and GSM</p><p>- Magnetic: Built-in magnet for easy attachment</p><p>- Compact Design: Discreet and portable design</p><p></p><p></p><p>*Package Includes*</p><p></p><p></p><p>- Mini GPS tracker</p><p>- USB charging cable</p><p>- User manual</p><p>- SIM card (optional)</p><p></p><p></p><p>*Applications*</p><p></p><p></p><p>- Personal tracking (elderly, children, pets)</p><p>- Vehicle tracking (cars, motorcycles, bicycles)</p><p>- Asset tracking (valuables, luggage, packages)</p><p>- Fleet management</p><p>- Outdoor activities (hiking, cycling, sailing)</p><p></p><p></p><p>*Warranty and Support*</p><p></p><p></p><p>- Warranty: no warranty</p><p>- Technical Support: Online support </p><p></p><p></p><p>*Certifications*</p><p></p><p></p><p>- CE, FCC, RoHS certified</p><p></p><p></p><p>Please note that specifications may vary depending on the manufacturer and model.</p>",
+            "Hazmat": "None",
+            "source": "asc",
+            "delivery_option_sof": "0"
+        },
+        "status": "Suspended"
+    },
+    {
+        "created_time": "1678999472270",
+        "updated_time": "1736833837111",
+        "images": [
+            "https://static-01.daraz.pk/p/59b9185e09d7aeaa6be7d328443f3803.png",
+            "https://static-01.daraz.pk/p/7186088be504e5dec10cb90b92e2541f.png"
+        ],
+        "skus": [
+            {
+                "SellerSku": "405528498-1691915865129-0",
+                "ShopSku": "405528498_PK-2048486575",
+                "Url": "http://www.daraz.pk/-i405528498-s2048486575.html",
+                "color_family": "Black",
+                "package_height": "2.5",
+                "fblWarehouseInventories": [],
+                "price": 3000.0,
+                "package_length": "12.00",
+                "special_from_date": "2024-01-01",
+                "Available": 7,
+                "special_to_date": "2025-12-31",
+                "Status": "active",
+                "quantity": 7,
+                "Images": [
+                    "https://static-01.daraz.pk/p/59b9185e09d7aeaa6be7d328443f3803.png"
+                ],
+                "special_time_format": "yyyy-MM-dd HH:mm:ss",
+                "package_content": "Rechargeable Wireless Microphone,  Receiver,  usb c cable",
+                "saleProp": {
+                    "color_family": "Black"
+                },
+                "multiWarehouseInventories": [
+                    {
+                        "occupyQuantity": 0,
+                        "quantity": 7,
+                        "totalQuantity": 7,
+                        "withholdQuantity": 0,
+                        "warehouseCode": "dropshipping",
+                        "sellableQuantity": 7
+                    }
+                ],
+                "package_width": "4.5",
+                "special_to_time": "2025-12-31 00:00:00",
+                "special_from_time": "2024-01-01 00:00:03",
+                "special_price": 999.0,
+                "channelInventories": [],
+                "package_weight": "0.115",
+                "SkuId": 2048486575
+            }
+        ],
+        "item_id": 405528498,
+        "primary_category": 7488,
+        "attributes": {
+            "name": "K8 Wireless Lavalier Microphone For Recording - Type-C Mini MIC for Mobile Phone Live Streams Interview - 20 Meter Long Range Portable Audio Recording Mic For Type C Mobile Phone Camera",
+            "short_description": "<p>The K8 Wireless Lavalier Microphone is a type of lapel microphone designed for recording audio.\n\nIt is a wireless microphone, meaning it does not need to be connected to a recording device using a cable. Instead, it uses Bluetooth technology to transmit audio to a compatible device.\n\nThe microphone is designed to work specifically with mobile phones that have a Type-C connector, such as some Android smartphones.\n\nIt can be used for a variety of purposes, including recording podcasts, interviews, speeches, and live streams.\n\nThe microphone has a frequency response range of 20 Hz to 20 kHz, which is the standard range for human hearing.\n\nIt also has a signal-to-noise ratio of 78 dB, which means it can capture clear audio while minimizing background noise.\n\nThe microphone comes with a small clip that allows you to attach it to your clothing or other objects, making it easy to use hands-free.\n\nIt has a battery life of approximately 6 hours, and can be charged using a USB cable.\n\nRegenerate response</p>",
+            "description": "<div></div>",
+            "brand": "No Brand",
+            "warranty_type": "No Warranty",
+            "description_en": "<p>Package Include\ufeff\n\n1 x Rechargeable Wireless Microphone\n1 x Receiver\n1 x usb c cable\n\nPlease Note This Microphone Will Not Work on All Mobile Phones It Will Be Compatible with Type c Port Only</p>",
+            "name_en": "K8 Wireless Lavalier Microphone For Recording - Type-C Mini MIC for Mobile Phone Live Streams Interview - 20 Meter Long Range Portable Audio Recording Mic For Type C Mobile Phone Camera",
+            "short_description_en": "<p>The K8 Wireless Lavalier Microphone is a type of lapel microphone designed for recording audio.\n\nIt is a wireless microphone, meaning it does not need to be connected to a recording device using a cable. Instead, it uses Bluetooth technology to transmit audio to a compatible device.\n\nThe microphone is designed to work specifically with mobile phones that have a Type-C connector, such as some Android smartphones.\n\nIt can be used for a variety of purposes, including recording podcasts, interviews, speeches, and live streams.\n\nThe microphone has a frequency response range of 20 Hz to 20 kHz, which is the standard range for human hearing.\n\nIt also has a signal-to-noise ratio of 78 dB, which means it can capture clear audio while minimizing background noise.\n\nThe microphone comes with a small clip that allows you to attach it to your clothing or other objects, making it easy to use hands-free.\n\nIt has a battery life of approximately 6 hours, and can be charged using a USB cable.\n\nRegenerate response</p>",
+            "source": "asc",
+            "delivery_option_sof": "0"
+        },
+        "status": "Active"
+    },
+    {
+        "created_time": "1661877210973",
+        "updated_time": "1736833996871",
+        "images": [
+            "https://static-01.daraz.pk/p/ed5064fa8a8d728a3f5e3193763aaca5.jpg"
+        ],
+        "skus": [
+            {
+                "SellerSku": "350975761-1692880464434-0",
+                "ShopSku": "350975761_PK-2204271351",
+                "Url": "http://www.daraz.pk/-i350975761-s2204271351.html",
+                "color_family": "Black",
+                "package_height": "3.00",
+                "fblWarehouseInventories": [],
+                "price": 13000.0,
+                "package_length": "16.00",
+                "special_from_date": "2025-01-14",
+                "Available": 92,
+                "special_to_date": "2025-12-31",
+                "Status": "active",
+                "quantity": 92,
+                "Images": [
+                    "https://static-01.daraz.pk/p/ed5064fa8a8d728a3f5e3193763aaca5.jpg"
+                ],
+                "special_time_format": "yyyy-MM-dd HH:mm:ss",
+                "package_content": "1* BM-800 Microphone 1* Microphone Stand 1* Microphone Cable 1*Microphone Cover 1* Acoustic Pop Filt",
+                "saleProp": {
+                    "color_family": "Black"
+                },
+                "multiWarehouseInventories": [
+                    {
+                        "occupyQuantity": 0,
+                        "quantity": 92,
+                        "totalQuantity": 92,
+                        "withholdQuantity": 0,
+                        "warehouseCode": "dropshipping",
+                        "sellableQuantity": 92
+                    }
+                ],
+                "package_width": "7.00",
+                "special_to_time": "2025-12-31 00:00:00",
+                "special_from_time": "2025-01-14 00:00:00",
+                "special_price": 7600.0,
+                "channelInventories": [],
+                "package_weight": "1",
+                "SkuId": 2204271351
+            }
+        ],
+        "item_id": 350975761,
+        "primary_category": 7488,
+        "attributes": {
+            "name": "BM800 Condenser Microphone Kit - Bm 800 with V8-II Usb Sound Card, Pop Filter & Arm Scissor Stand",
+            "short_description": "Product details of BM800 Condenser Microphone Kit - Bm 800 with V8-II Usb Sound Card, Pop Filter &amp; Arm Scissor Stand - Black - Silver - red -blue &nbsp; BM800 Condenser Microphone Kit with V8 Usb Sound Card, Pop Filter &amp; Arm Scissor StandWhat You Received1* BM-800 Microphone1* Microphone Cable1* Microphone Cover1* Microphone Stand1* Shock Mount1* Acoustic Pop Filter1* V8-II Usb Sound Card",
+            "description": "<div style=\"margin: 0;padding: 8.0px 0;white-space: pre-wrap;\"><span></span><p style=\"margin: 0;padding: 8.0px 0;font-size: 14.0px;color: #000000;white-space: pre-wrap;\"><strong style=\"margin: 0.0px;padding: 0.0px;font-weight: bolder;\"></strong></p><p style=\"margin: 0;padding: 8.0px 0;font-size: 14.0px;color: #000000;\"><strong style=\"margin: 0.0px;padding: 0.0px;font-weight: bolder;\">Bm 800 Microhpone Specs</strong></p><ul style=\"margin: 0.0px 0.0px 0.0px 10.0px;padding: 0.0px;list-style: disc;color: #000000;\"><li style=\"margin: 0.0px;padding: 0.0px;\"><span style=\"margin: 0.0px;padding: 0.0px;\">Specification:</span></li><li style=\"margin: 0.0px;padding: 0.0px;\"><span style=\"margin: 0.0px;padding: 0.0px;\">Frequency Response: 20Hz~20kHz</span></li><li style=\"margin: 0.0px;padding: 0.0px;\"><span style=\"margin: 0.0px;padding: 0.0px;\">Sensitivity: 45dB\u00b11dB</span></li><li style=\"margin: 0.0px;padding: 0.0px;\"><span style=\"margin: 0.0px;padding: 0.0px;\">Output Impedance: 1500\u03a9\u00b130%(at 1kHz)</span></li><li style=\"margin: 0.0px;padding: 0.0px;\"><span style=\"margin: 0.0px;padding: 0.0px;\">Load Impedance: \u22651000 \u03a9</span></li><li style=\"margin: 0.0px;padding: 0.0px;\"><span style=\"margin: 0.0px;padding: 0.0px;\">Equivalent Noise Level: 16dBA</span></li><li style=\"margin: 0.0px;padding: 0.0px;\"><span style=\"margin: 0.0px;padding: 0.0px;\">Electrical Current: 3mA</span></li></ul><p style=\"margin: 0;padding: 8.0px 0;font-size: 14.0px;color: #000000;\"><strong style=\"margin: 0.0px;padding: 0.0px;font-weight: bolder;\">Pop Filter Specs</strong></p><p style=\"margin: 0;padding: 8.0px 0;font-size: 14.0px;color: #000000;\"><span style=\"margin: 0.0px;padding: 0.0px;\">External Diameter: 155mm(6.10inch)</span></p><p style=\"margin: 0;padding: 8.0px 0;font-size: 14.0px;color: #000000;white-space: pre-wrap;\"><strong style=\"margin: 0.0px;padding: 0.0px;font-weight: bolder;\"></strong></p><p style=\"margin: 0;padding: 8.0px 0;font-size: 14.0px;color: #000000;white-space: pre-wrap;\"><span style=\"margin: 0.0px;padding: 0.0px;\"></span></p><p style=\"margin: 0;padding: 8.0px 0;white-space: pre-wrap;\"><span></span></p></div>",
+            "brand": "No Brand",
+            "warranty_type": "No Warranty",
+            "description_en": "<p>Specifications of BM800 Condenser Microphone Kit - Bm 800 with V8-II Usb Sound Card Specifications of Bm 800 Condensor Microphone Complete Kit - with Pop Filter, Arm Scissor Stand &amp; Phantom Power With XLR Cable</p>",
+            "name_en": "BM800 Condenser Microphone Kit - Bm 800 with V8-II Usb Sound Card, Pop Filter & Arm Scissor Stand",
+            "short_description_en": "<p>Product details of BM800 Condenser Microphone Kit - Bm 800 with V8-II Usb Sound Card, Pop Filter &amp; Arm Scissor Stand - Black - Silver - red -blue &nbsp; BM800 Condenser Microphone Kit with V8 Usb Sound Card, Pop Filter &amp; Arm Scissor StandWhat You Received1* BM-800 Microphone1* Microphone Cable1* Microphone Cover1* Microphone Stand1* Shock Mount1* Acoustic Pop Filter1* V8-II Usb Sound Card</p>",
+            "Hazmat": "None",
+            "source": "asc",
+            "delivery_option_sof": "0"
+        },
+        "status": "Active"
+    },
+    {
+        "created_time": "1676486846420",
+        "updated_time": "1725665682209",
+        "images": [
+            "https://static-01.daraz.pk/p/33e582101db9827d2dff3a1dba7eeca9.jpg",
+            "https://static-01.daraz.pk/p/cc87959719baa02ce21fe14e7fd59e17.png"
+        ],
+        "skus": [
+            {
+                "SellerSku": "00003-Black",
+                "ShopSku": "396832538_PK-1922416994",
+                "Url": "http://www.daraz.pk/-i396832538-s1922416994.html",
+                "color_family": "Black",
+                "package_height": "3.00",
+                "fblWarehouseInventories": [],
+                "price": 12000.0,
+                "package_length": "10.00",
+                "special_from_date": "2024-01-01",
+                "Available": 0,
+                "special_to_date": "2024-12-31",
+                "Status": "active",
+                "quantity": 0,
+                "Images": [
+                    "https://static-01.daraz.pk/p/fa555130eaa7f45db1f7d641f1832c13.jpg"
+                ],
+                "special_time_format": "yyyy-MM-dd HH:mm:ss",
+                "package_content": "bm 800 Condenser microphone ,  48V Phantom Power Supply , Arm Stand & Pop Filter, mic cover, cable",
+                "saleProp": {
+                    "color_family": "Black"
+                },
+                "multiWarehouseInventories": [
+                    {
+                        "occupyQuantity": 0,
+                        "quantity": 0,
+                        "totalQuantity": 0,
+                        "withholdQuantity": 0,
+                        "warehouseCode": "dropshipping",
+                        "sellableQuantity": 0
+                    }
+                ],
+                "package_width": "5.00",
+                "special_to_time": "2024-12-31 00:00:00",
+                "special_from_time": "2024-01-01 00:00:57",
+                "special_price": 7770.0,
+                "channelInventories": [],
+                "package_weight": "0.5",
+                "SkuId": 1922416994
+            }
+        ],
+        "item_id": 396832538,
+        "primary_category": 7488,
+        "attributes": {
+            "name": "Bm 800 Condenser Microphone - 48V Phantom Power Supply - Bm800 Mic, Arm Stand & Pop Filter - Studio Recording Microphone",
+            "short_description": "Product details of Bm 800 Condenser Microphone - 48V Phantom Power Supply - Bm800 Mic, Arm Stand & Pop Filter - Studio Recording Microphone - Black\n\nBm 800 Condenser Microphone - 48V Phantom Power Supply - Bm800 Mic, Arm Stand & Pop Filter - Studio Recording Microphone - Black",
+            "description": "<div></div>",
+            "brand": "No Brand",
+            "warranty_type": "No Warranty",
+            "description_en": "Bm 800 Condenser Microphone - 48V Phantom Power Supply - Bm800 Mic, Arm Stand & Pop Filter - Studio Recording Microphone - BlackPackage includes:\n\n1 * BM-800 Microphone\n\n1 * Microphone Cover\n\n1 * Arm Mic Stand\n\n1 * Shock Mount\n\n1 * Pop Filter\n\n1 * 48v Phantom Power Supply\n\n2 * Cables",
+            "name_en": "Bm 800 Condenser Microphone - 48V Phantom Power Supply - Bm800 Mic, Arm Stand & Pop Filter - Studio Recording Microphone",
+            "short_description_en": "Product details of Bm 800 Condenser Microphone - 48V Phantom Power Supply - Bm800 Mic, Arm Stand & Pop Filter - Studio Recording Microphone - Black\n\nBm 800 Condenser Microphone - 48V Phantom Power Supply - Bm800 Mic, Arm Stand & Pop Filter - Studio Recording Microphone - Black",
+            "source": "asc"
+        },
+        "status": "Active"
+    },
+    {
+        "created_time": "1679817059217",
+        "updated_time": "1736833802474",
+        "images": [
+            "https://pk-live-21.slatic.net/kf/S5d930537023d4f0e86f3ebcdfb482535r.jpg",
+            "https://pk-live-21.slatic.net/kf/S43ef1f714380426cbfae5e667b05930aX.jpg",
+            "https://pk-live-21.slatic.net/kf/S3400522351724fb6bd6d4b7ecbbc4e9eR.jpg"
+        ],
+        "skus": [
+            {
+                "SellerSku": "408751683-1689004268543-0",
+                "ShopSku": "408751683_PK-2204274459",
+                "Url": "http://www.daraz.pk/-i408751683-s2204274459.html",
+                "color_family": "Silver",
+                "package_height": "7.492",
+                "fblWarehouseInventories": [],
+                "price": 15000.0,
+                "package_length": "39.508",
+                "special_from_date": "2024-01-01",
+                "Available": 0,
+                "special_to_date": "2025-12-31",
+                "Status": "active",
+                "quantity": 0,
+                "Images": [
+                    "https://pk-live-21.slatic.net/kf/S5d930537023d4f0e86f3ebcdfb482535r.jpg"
+                ],
+                "special_time_format": "yyyy-MM-dd HH:mm:ss",
+                "package_content": "Microphone\u00a0\n\nSponge cover\n\nConnection wires\u00a0\n\nArm stand\n\nPop filter\n\nBlowout preventer\n\nShock mount",
+                "saleProp": {
+                    "color_family": "Silver"
+                },
+                "multiWarehouseInventories": [
+                    {
+                        "occupyQuantity": 0,
+                        "quantity": 0,
+                        "totalQuantity": 0,
+                        "withholdQuantity": 0,
+                        "warehouseCode": "dropshipping",
+                        "sellableQuantity": 0
+                    }
+                ],
+                "package_width": "19.324",
+                "special_to_time": "2025-12-31 00:00:00",
+                "special_from_time": "2024-01-01 00:00:10",
+                "special_price": 7700.0,
+                "channelInventories": [],
+                "package_weight": "1.01",
+                "SkuId": 2204274459
+            }
+        ],
+        "item_id": 408751683,
+        "primary_category": 7488,
+        "attributes": {
+            "name": "Bm800 \u067e\u0631\u0648 \u06a9\u0646\u0688\u06cc\u0646\u0633\u0631 \u0645\u0627\u0626\u06a9\u0631\u0648\u0641\u0648\u0646-usb \u0633\u0627\u0624\u0646\u0688 \u06a9\u0627\u0631\u0688-bm 800 \u0645\u0627\u0626\u06a9\u0631\u0648\u0641\u0648\u0646 \u0686\u0627\u0646\u062f\u06cc \u0631\u0646\u06af \u06a9\u06d2 \u0627\u0633\u0679\u0648\u0688\u06cc\u0648 \u0631\u06cc\u06a9\u0627\u0631\u0688\u0646\u06af \u067e\u06cc\u06a9\u0646\u06af \u06a9\u06cc \u0644\u0633\u0679",
+            "short_description": "Packing list Microphone&nbsp; Sponge cover Connection wires&nbsp; Arm stand Pop filter Blowout preventer Shock mount USB Sound card",
+            "description": "Bm 800 Pro large diaphragm condenser microphone - USB Sound Card - bm 800 microphone silver - Aram Stand - pop filter full set for studio recording Mike<br/><br/>Packing list<br/><br/>Microphone <br/><br/>Sponge cover<br/><br/>Connection wires <br/><br/>Arm stand<br/><br/>Pop filter<br/><br/>Blowout preventer<br/><br/>Shock mount<br/><br/>USB Sound card",
+            "brand": "No Brand",
+            "warranty_type": "No Warranty",
+            "description_en": "Bm 800 Pro large diaphragm condenser microphone - USB Sound Card - bm 800 microphone silver - Aram Stand - pop filter full set for studio recording&nbsp; Packing list Microphone&nbsp; Sponge cover Connection wires&nbsp; Arm stand Pop filter Blowout preventer Shock mount USB Sound card",
+            "name_en": "bm800 pro  condenser microphone -USB sound card -bm 800 microphone silver studios recording packing list",
+            "short_description_en": "Packing list Microphone&nbsp; Sponge cover Connection wires&nbsp; Arm stand Pop filter Blowout preventer Shock mount USB Sound card",
+            "Hazmat": "None",
+            "source": "asc",
+            "delivery_option_sof": "0"
+        },
+        "status": "Active"
+    },
+    {
+        "created_time": "1664394735036",
+        "updated_time": "1736833974558",
+        "images": [
+            "https://static-01.daraz.pk/p/ad8172c1561413fd729ceb26db2e4637.jpg",
+            "https://static-01.daraz.pk/p/b898cce7bbc5fcccd8cf64e56d37ab76.jpg"
+        ],
+        "skus": [
+            {
+                "SellerSku": "359607056-1682508885788-0",
+                "ShopSku": "359607056_PK-1977137917",
+                "Url": "http://www.daraz.pk/-i359607056-s1977137917.html",
+                "color_family": "Black",
+                "package_height": "6.351",
+                "fblWarehouseInventories": [],
+                "price": 26000.0,
+                "package_length": "24.36",
+                "special_from_date": "2025-01-14",
+                "Available": 19,
+                "special_to_date": "2025-12-31",
+                "Status": "active",
+                "quantity": 19,
+                "Images": [
+                    "https://static-01.daraz.pk/p/ad8172c1561413fd729ceb26db2e4637.jpg"
+                ],
+                "color_thumbnail": "https://static-01.daraz.pk/p/ad8172c1561413fd729ceb26db2e4637.jpg",
+                "special_time_format": "yyyy-MM-dd HH:mm:ss",
+                "package_content": "1\u00d7 sound card",
+                "saleProp": {
+                    "color_family": "Black"
+                },
+                "multiWarehouseInventories": [
+                    {
+                        "occupyQuantity": 0,
+                        "quantity": 19,
+                        "totalQuantity": 19,
+                        "withholdQuantity": 0,
+                        "warehouseCode": "dropshipping",
+                        "sellableQuantity": 19
+                    }
+                ],
+                "package_width": "20.793",
+                "special_to_time": "2025-12-31 00:00:00",
+                "special_from_time": "2025-01-14 00:00:00",
+                "special_price": 14999.0,
+                "channelInventories": [],
+                "package_weight": "0.86",
+                "SkuId": 1977137917
+            }
+        ],
+        "item_id": 359607056,
+        "primary_category": 7489,
+        "attributes": {
+            "name": "Teyun Q24 USB Audio Interface - Dual Channel Sound Card - 48v Phantom Power Supply For Condenser Microphone",
+            "short_description": "Product details of Teyun Q24 USB Audio Interface - Dual Channel Sound Card - 48v Phantom Power Supply For Condenser Microphone Q24 USB Audio Interface Sound Card Dual Channel Audio Recorder - 48v Phantom Power Supply For Condenser Microphones Q 24 Professional Sound Card For Studio Recording, 24 bit/192 kHz Professional Audio Quality Q24 audio interface, with all connection interfaces for microphone etc. This includes a +48V phantom power supply for condenser microphones, and HI-Z microphone preamplifier. the q-24 audio interface has a studio-grade 24-bit/192 kHz converter for optimal sound quality. Whether you are a singer, songwriter, producer on the go, or need to accompany during recording, the ultra-reliable Q24 audio interface will help you shine in the digital field.",
+            "description": "<div style=\"margin:0;padding:8px 0;white-space:pre-wrap\"><span></span><p style=\"margin:0;padding:8px 0;font-size:14px;color:rgb(0, 0, 0);font-family:Roboto, -apple-system, BlinkMacSystemFont, \"Helvetica Neue\", Helvetica, sans-serif;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;white-space:pre-wrap\"><span style=\"margin:0px;padding:0px\"><span style=\"margin:0px;padding:0px\"><strong style=\"margin:0px;padding:0px;font-weight:bold\">Q22 USB Audio Interface Sound Card Dual Channel Audio Recorder - 48v Phantom Power Supply For Condenser Microphones</strong></span></span></p><p style=\"margin:0;padding:8px 0;font-size:14px;color:rgb(0, 0, 0);font-family:Roboto, -apple-system, BlinkMacSystemFont, \"Helvetica Neue\", Helvetica, sans-serif;font-style:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-weight:400;letter-spacing:normal;orphans:2;text-align:start;text-indent:0px;text-transform:none;widows:2;word-spacing:0px;-webkit-text-stroke-width:0px;background-color:rgb(255, 255, 255);text-decoration-thickness:initial;text-decoration-style:initial;text-decoration-color:initial;white-space:pre-wrap\"><span style=\"margin:0px;padding:0px\"><span style=\"margin:0px;padding:0px\">Q 24 Professional Sound Card For Studio Recording, 24 bit/192 kHz Professional Audio Quality E-24 audio interface, with all connection interfaces for microphone etc. This includes a +48V phantom power supply for condenser microphones, and HI-Z microphone preamplifier. the Q24 audio interface has a studio-grade 24-bit/192 kHz converter for optimal sound quality. Whether you are a singer, songwriter, producer on the go, or need to accompany during recording, the ultra-reliable E-24 audio interface will help you shine in the digital field.</span></span></p></div>",
+            "brand": "No Brand",
+            "warranty_type": "No Warranty",
+            "description_en": "<p>Technical specifications: MIC INPUT 1-2(balanced ) Frequency response:-1/-1dB. 20Hz- 20kHz Dynamic Range:82 dB,A weighting THD +N 0.03%,1kHz Maximum input level: +6dBu Input resistance 4kQ2 Gain range: +3dB- +60dB HI-ZINPUT 2 (Unbalanced) Maximum input level: +3.0dBV Input resistance: 1 MQ Gain range:-10dB -+40dB LINE INPUT 1/2(balance) Maximum input level:+10dBu Input resistance: 18.5kQ Gain range:-10dB -+40dB What\u2019s in the box 1*Sound card + 1 * Manual</p>",
+            "name_en": "Teyun Q24 USB Audio Interface - Dual Channel Sound Card - 48v Phantom Power Supply For Condenser Microphone",
+            "short_description_en": "<p>Product details of Teyun Q24 USB Audio Interface - Dual Channel Sound Card - 48v Phantom Power Supply For Condenser Microphone Q24 USB Audio Interface Sound Card Dual Channel Audio Recorder - 48v Phantom Power Supply For Condenser Microphones Q 24 Professional Sound Card For Studio Recording, 24 bit/192 kHz Professional Audio Quality Q24 audio interface, with all connection interfaces for microphone etc. This includes a +48V phantom power supply for condenser microphones, and HI-Z microphone preamplifier. the q-24 audio interface has a studio-grade 24-bit/192 kHz converter for optimal sound quality. Whether you are a singer, songwriter, producer on the go, or need to accompany during recording, the ultra-reliable Q24 audio interface will help you shine in the digital field.</p>",
+            "Hazmat": "None",
+            "source": "asc",
+            "delivery_option_sof": "0"
+        },
+        "status": "Active"
+    }
+]
