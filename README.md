@@ -19,7 +19,7 @@ This app enables seamless integration between [Daraz](https://www.daraz.pk/) and
 1. Install the app:
    ```bash
    bench get-app https://github.dev/Infintrix-Technologies/erpnext_daraz.git
-   bench install-app daraz_integration
+   bench install-app erpnext_daraz
    ```
 2. Configure your Daraz API credentials:
    - Go to the Daraz Integration settings in ERPNext.
