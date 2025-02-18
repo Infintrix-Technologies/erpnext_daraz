@@ -425,10 +425,10 @@
                 "price": 1000.0,
                 "package_length": "4.00",
                 "special_from_date": "2025-01-14",
-                "Available": 17,
+                "Available": 16,
                 "special_to_date": "2025-12-31",
                 "Status": "active",
-                "quantity": 17,
+                "quantity": 16,
                 "Images": [
                     "https://static-01.daraz.pk/p/57566c97b840fd55d735130660d41952.jpg"
                 ],
@@ -440,12 +440,12 @@
                 },
                 "multiWarehouseInventories": [
                     {
-                        "occupyQuantity": 0,
-                        "quantity": 17,
+                        "occupyQuantity": 1,
+                        "quantity": 16,
                         "totalQuantity": 17,
                         "withholdQuantity": 0,
                         "warehouseCode": "dropshipping",
-                        "sellableQuantity": 17
+                        "sellableQuantity": 16
                     }
                 ],
                 "package_width": "2.00",

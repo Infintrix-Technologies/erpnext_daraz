@@ -213,3 +213,7 @@ app_license = "MIT"
 # auth_hooks = [
 # 	"erpnext_daraz.auth.validate"
 # ]
+
+fixtures = [
+    'Custom Field'
+]
